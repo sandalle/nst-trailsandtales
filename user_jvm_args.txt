@@ -1,0 +1,29 @@
+# Xmx and Xms set the maximum and minimum RAM usage, respectively.
+# They can take any number, followed by an M or a G.
+# M means Megabyte, G means Gigabyte.
+# For example, to set the maximum to 3GB: -Xmx3G
+# To set the minimum to 2.5GB: -Xms2500M
+
+# A good default for a modded server is 4GB.
+# Set maximum and starting RAM to 4G
+-Xmx4G -Xms4G
+
+-XX:ParallelGCThreads=4
+-XX:ConcGCThreads=2
+-Djava.net.useSystemProxies=true
+-Djline.terminal=unix -Djava.util.prefs.userRoot=${SERVER_DIR}
+-Djava.net.preferIPv4Stack=true
+-Dfml.readTimeout=120
+-XX:+AlwaysPreTouch
+-XX:+UseG1GC
+-XX:+UnlockExperimentalVMOptions
+-XX:MaxGCPauseMillis=100
+-XX:+DisableExplicitGC
+-XX:TargetSurvivorRatio=90
+-XX:G1NewSizePercent=50
+-XX:G1MaxNewSizePercent=80
+-XX:InitiatingHeapOccupancyPercent=10
+-XX:G1MixedGCLiveThresholdPercent=50
+-XX:-UseAdaptiveSizePolicy
+#-XX:+UseLargePages
+#-Dfml.doNotBackup=true -Dfml.queryResult=confirm
