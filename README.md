@@ -121,12 +121,12 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 * [Adaptive Performance Tweaks: Items](https://www.curseforge.com/minecraft/mc-mods/adaptive-performance-tweaks-items)
 * [Adaptive Performance Tweaks: Player Login Optimization and Protection](https://www.curseforge.com/minecraft/mc-mods/adaptive-performance-tweaks-player)
 * [Adaptive Performance Tweaks: Spawn](https://www.curseforge.com/minecraft/mc-mods/adaptive-performance-tweaks-spawn)
+  - Disabled for Ultimate Car Mod items/entities as they break
+  - May conflict with Rubidium
 * [Bee Fix](https://www.curseforge.com/minecraft/mc-mods/bee-fix)
 * [Boat Break Fix](https://www.curseforge.com/minecraft/mc-mods/boat-break-fix)
 * [Canary](https://www.curseforge.com/minecraft/mc-mods/canary)
 * [Chunk Sending](https://www.curseforge.com/minecraft/mc-mods/chunk-sending-forge-fabric)
-* [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps)
-  - May be duplicated by TBD functionality?
 * [Connectivity](https://www.curseforge.com/minecraft/mc-mods/connectivity)
 * [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling)
 * [Fastload](https://www.curseforge.com/minecraft/mc-mods/fastload) - May be removed, no longer maintained?
