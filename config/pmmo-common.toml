@@ -21,10 +21,10 @@
 	[Common."Ms Loggy"]
 		#Which MsLoggy info logging should be enabled?  This will flood your log with data, but provides essential details
 		# when trying to find data errors and bug fixing.  
-		"Info Logging" = ["loading", "network", "api"]
+		"Info Logging" = []
 		#Which MsLoggy debug logging should be enabled?  This will flood your log with data, but provides essential details
 		# when trying to find bugs. DEVELOPER SETTING (mostly).  
-		"Debug Logging" = ["autovalues"]
+		"Debug Logging" = []
 		#Which MsLoggy warn logging should be enabled?  This log type is helpful for catching important but non-fatal issues
 		"Warn Logging" = ["api"]
 		#Which Error Logging should be enabled.  it is highly recommended this stay true.  however, you can
