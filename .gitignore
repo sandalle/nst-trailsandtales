@@ -1,0 +1,13 @@
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
+.*DS_Store
+
+# Files we don't want to track
+config/*.bak
+config/appleskin-client.toml
+config/servertabinfo-client.toml
+config/ae2/client.json
