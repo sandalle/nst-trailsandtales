@@ -222,6 +222,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 * [Ultimate Car Mod](https://www.curseforge.com/minecraft/mc-mods/ultimate-car-mod)
 * [Ultimate Plane Mod](https://www.curseforge.com/minecraft/mc-mods/ultimate-plane-mod)
 * [Useful Railroads](https://www.curseforge.com/minecraft/mc-mods/useful-railroads)
+* [XNet](https://www.curseforge.com/minecraft/mc-mods/xnet)
 
 
 ### Space Mods
@@ -318,7 +319,7 @@ Once these mods are updated for 1.20.1 they'll be added
   - [Blastcraft](https://www.curseforge.com/minecraft/mc-mods/blast-craft)
   - [Modular Force Fields Systems](https://legacy.curseforge.com/minecraft/mc-mods/modular-forcefields)
   - [Nuclear Science](https://legacy.curseforge.com/minecraft/mc-mods/nuclear-science)
-* [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism)
+* [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism) - Will replace XNet
   - [Mekanism Additions](https://www.curseforge.com/minecraft/mc-mods/mekanism-additions)
   - [Mekanism Generators](https://www.curseforge.com/minecraft/mc-mods/mekanism-generators)
   - [Mekanism Tools](https://www.curseforge.com/minecraft/mc-mods/mekanism-tools)
