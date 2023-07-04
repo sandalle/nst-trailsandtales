@@ -74,20 +74,20 @@
 
 #Should requirements apply for the applicable action type
 [Requirements]
-	"WEAR Req Enabled" = true
-	"USE_ENCHANTMENT Req Enabled" = true
-	"TOOL Req Enabled" = true
-	"WEAPON Req Enabled" = true
-	"USE Req Enabled" = true
-	"PLACE Req Enabled" = true
-	"BREAK Req Enabled" = true
-	"KILL Req Enabled" = true
-	"TRAVEL Req Enabled" = true
-	"RIDE Req Enabled" = true
-	"TAME Req Enabled" = true
-	"BREED Req Enabled" = true
-	"INTERACT Req Enabled" = true
-	"ENTITY_INTERACT Req Enabled" = true
+	"WEAR Req Enabled" = false
+	"USE_ENCHANTMENT Req Enabled" = false
+	"TOOL Req Enabled" = false
+	"WEAPON Req Enabled" = false
+	"USE Req Enabled" = false
+	"PLACE Req Enabled" = false
+	"BREAK Req Enabled" = false
+	"KILL Req Enabled" = false
+	"TRAVEL Req Enabled" = false
+	"RIDE Req Enabled" = false
+	"TAME Req Enabled" = false
+	"BREED Req Enabled" = false
+	"INTERACT Req Enabled" = false
+	"ENTITY_INTERACT Req Enabled" = false
 
 #All settings related to the gain of experience
 [XP_Gains]
