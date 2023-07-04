@@ -30,7 +30,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 # Mods
 ## General Mods
 * [Advanced Netherite](https://www.curseforge.com/minecraft/mc-mods/advanced-netherite)
-* [Animal Feeding](https://www.curseforge.com/minecraft/mc-mods/animal-feeding-trough)
+* [Animal Feeding](https://www.curseforge.com/minecraft/mc-mods/animal-feeding-trough) - May be removed, looks like Farming for Blockheads already has this?
 * [Chunk Loaders](https://www.curseforge.com/minecraft/mc-mods/chunk-loaders)
 * [Compressium](https://www.curseforge.com/minecraft/mc-mods/compressium)
 * [Despawning Eggs Hatch](https://www.curseforge.com/minecraft/mc-mods/despawning-eggs-hatch)
