@@ -86,7 +86,6 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 * [Farming for Blockheads](https://www.curseforge.com/minecraft/mc-mods/farming-for-blockheads)
 * [Fast Leaf Decay](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay)
 * [Flat Bedrock](https://www.curseforge.com/minecraft/mc-mods/flat-bedrock)
-  - Does Forge still have this option itself?
 * [FTB Essentials](https://www.curseforge.com/minecraft/mc-mods/ftb-essentials-forge)
 * [Guard Villagers](https://www.curseforge.com/minecraft/mc-mods/guard-villagers)
 * [GUI Clock](https://www.curseforge.com/minecraft/mc-mods/gui-clock)
