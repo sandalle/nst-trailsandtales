@@ -7,20 +7,20 @@
 
 	#These settings turn auto-values on/off for the specific requirement type.  These are global settings
 	[Auto_Values.Req_Toggles]
-		"WEAR Req Values Generate" = true
-		"USE_ENCHANTMENT Req Values Generate" = true
-		"TOOL Req Values Generate" = true
-		"WEAPON Req Values Generate" = true
-		"USE Req Values Generate" = true
-		"PLACE Req Values Generate" = true
-		"BREAK Req Values Generate" = true
-		"KILL Req Values Generate" = true
-		"TRAVEL Req Values Generate" = true
-		"RIDE Req Values Generate" = true
-		"TAME Req Values Generate" = true
-		"BREED Req Values Generate" = true
-		"INTERACT Req Values Generate" = true
-		"ENTITY_INTERACT Req Values Generate" = true
+		"WEAR Req Values Generate" = false
+		"USE_ENCHANTMENT Req Values Generate" = false
+		"TOOL Req Values Generate" = false
+		"WEAPON Req Values Generate" = false
+		"USE Req Values Generate" = false
+		"PLACE Req Values Generate" = false
+		"BREAK Req Values Generate" = false
+		"KILL Req Values Generate" = false
+		"TRAVEL Req Values Generate" = false
+		"RIDE Req Values Generate" = false
+		"TAME Req Values Generate" = false
+		"BREED Req Values Generate" = false
+		"INTERACT Req Values Generate" = false
+		"ENTITY_INTERACT Req Values Generate" = false
 
 	#These settings turn auto-values xp awards on/off for the specific event type.  These are global settings
 	[Auto_Values.XpGain_Toggles]
