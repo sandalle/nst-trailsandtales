@@ -306,6 +306,10 @@ Once these mods are updated for 1.20.1 they'll be added
 * [Always a Wither Skull](https://www.curseforge.com/minecraft/mc-mods/always-a-wither-skull)
 * [Ars Nouveau](https://www.curseforge.com/minecraft/mc-mods/ars-nouveau)
 * [Chance Cubes](https://www.curseforge.com/minecraft/mc-mods/chance-cubes)
+* [DimStorage](https://www.curseforge.com/minecraft/mc-mods/dimstorage)
+  - Will replace this with these two tried-and-true ones if there are issues
+  - [EnderChests](https://legacy.curseforge.com/minecraft/mc-mods/enderchests)
+  - [EnderTanks](https://legacy.curseforge.com/minecraft/mc-mods/endertanks)
 * [Electrodynamics](https://www.curseforge.com/minecraft/mc-mods/electrodynamics)
   - [Ballistix](https://www.curseforge.com/minecraft/mc-mods/ballistix)
   - [Blastcraft](https://www.curseforge.com/minecraft/mc-mods/blast-craft)
@@ -315,6 +319,7 @@ Once these mods are updated for 1.20.1 they'll be added
   - [Mekanism Additions](https://www.curseforge.com/minecraft/mc-mods/mekanism-additions)
   - [Mekanism Generators](https://www.curseforge.com/minecraft/mc-mods/mekanism-generators)
   - [Mekanism Tools](https://www.curseforge.com/minecraft/mc-mods/mekanism-tools)
+* [Refined Storage](https://legacy.curseforge.com/minecraft/mc-mods/refined-storage) - Will replace Applied Energistics 2 with this if it still has the stupid in-world crystal growth requirement
 * [Storage Drawers](https://www.curseforge.com/minecraft/mc-mods/storage-drawers)
 * [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
 
