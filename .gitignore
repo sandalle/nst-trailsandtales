@@ -11,3 +11,6 @@ config/*.bak
 config/appleskin-client.toml
 config/servertabinfo-client.toml
 config/ae2/client.json
+config/durabilitytooltip-common.toml
+config/guiclock.json5
+config/guicompass.json5
