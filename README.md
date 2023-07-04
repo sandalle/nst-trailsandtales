@@ -183,7 +183,9 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 * [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)
 * [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts)
 * [Elementary Nether and End Ores](https://www.curseforge.com/minecraft/mc-mods/elementary-ores)
+* [Explorer's Compass](https://www.curseforge.com/minecraft/mc-mods/explorers-compass)
 * [Large Ore Deposits](https://www.curseforge.com/minecraft/mc-mods/large-ore-deposits)
+* [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass)
 * [The Lost Cities](https://www.curseforge.com/minecraft/mc-mods/the-lost-cities)
 * [Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones)
 
