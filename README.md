@@ -295,6 +295,8 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
   - https://github.com/jonafanho/Minecraft-Transit-Railway/issues/701
 
 ### Mods to be disabled on dedicated servers
+* [Better F3 Plus](https://www.curseforge.com/minecraft/mc-mods/better-f3-plus)
+  - https://github.com/cominixo/BetterF3/issues/63
 * [Modern UI](https://www.curseforge.com/minecraft/mc-mods/modern-ui)
   - https://github.com/BloCamLimb/ModernUI/issues/155
 * [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus)
