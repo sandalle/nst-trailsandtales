@@ -327,3 +327,8 @@ Once these mods are updated for 1.20.1 they'll be added
 * [Storage Drawers](https://www.curseforge.com/minecraft/mc-mods/storage-drawers)
 * [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
 
+### Maybe add
+Might add these.
+* [Create](https://www.curseforge.com/minecraft/mc-mods/create)
+* [Planters](https://www.curseforge.com/minecraft/mc-mods/planters-forge)
+
