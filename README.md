@@ -310,6 +310,8 @@ Once these mods are updated for 1.20.1 they'll be added
 * [Always a Wither Skull](https://www.curseforge.com/minecraft/mc-mods/always-a-wither-skull)
 * [Ars Nouveau](https://www.curseforge.com/minecraft/mc-mods/ars-nouveau)
 * [Chance Cubes](https://www.curseforge.com/minecraft/mc-mods/chance-cubes)
+* [Create](https://www.curseforge.com/minecraft/mc-mods/create)
+  - Waiting on https://github.com/Creators-of-Create/Create/issues/5065 & https://github.com/MehVahdJukaar/Supplementaries/issues/691 to be fixed
 * [DimStorage](https://www.curseforge.com/minecraft/mc-mods/dimstorage)
   - Will replace this with these two tried-and-true ones if there are issues
   - [EnderChests](https://legacy.curseforge.com/minecraft/mc-mods/enderchests)
@@ -329,6 +331,5 @@ Once these mods are updated for 1.20.1 they'll be added
 
 ### Maybe add
 Might add these.
-* [Create](https://www.curseforge.com/minecraft/mc-mods/create)
 * [Planters](https://www.curseforge.com/minecraft/mc-mods/planters-forge)
 
