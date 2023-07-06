@@ -209,6 +209,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
   - [AEInfinityBooster](https://www.curseforge.com/minecraft/mc-mods/aeinfinitybooster)
   - [Applied Energistics 2 Wireless Terminals](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2-wireless-terminals)
 * [CC: Tweaked](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked)
+* [Create](https://www.curseforge.com/minecraft/mc-mods/create)
 * [Item Collectors](https://www.curseforge.com/minecraft/mc-mods/item-collectors)
 * [OpenBlocks Elevator](https://www.curseforge.com/minecraft/mc-mods/openblocks-elevator)
 * [RFTools Base](https://www.curseforge.com/minecraft/mc-mods/rftools-base)
@@ -310,8 +311,6 @@ Once these mods are updated for 1.20.1 they'll be added
 * [Always a Wither Skull](https://www.curseforge.com/minecraft/mc-mods/always-a-wither-skull)
 * [Ars Nouveau](https://www.curseforge.com/minecraft/mc-mods/ars-nouveau)
 * [Chance Cubes](https://www.curseforge.com/minecraft/mc-mods/chance-cubes)
-* [Create](https://www.curseforge.com/minecraft/mc-mods/create)
-  - Waiting on https://github.com/Creators-of-Create/Create/issues/5065 & https://github.com/MehVahdJukaar/Supplementaries/issues/691 to be fixed
 * [DimStorage](https://www.curseforge.com/minecraft/mc-mods/dimstorage)
   - Will replace this with these two tried-and-true ones if there are issues
   - [EnderChests](https://legacy.curseforge.com/minecraft/mc-mods/enderchests)
