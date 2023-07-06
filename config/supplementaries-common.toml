@@ -77,8 +77,10 @@
 
 	[redstone.faucet]
 		enabled = true
+		#Turn off to prevent faucets from dropping items
+		spill_items = true
 		#Allows faucets to fill entities inventories
-		drop_items = false
+		fill_entities_below = false
 
 [functional]
 	fodder = true
