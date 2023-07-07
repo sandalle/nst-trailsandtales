@@ -325,7 +325,7 @@ Once these mods are updated for 1.20.1 they'll be added
   - [Mekanism Generators](https://www.curseforge.com/minecraft/mc-mods/mekanism-generators)
   - [Mekanism Tools](https://www.curseforge.com/minecraft/mc-mods/mekanism-tools)
 * [Refined Storage](https://legacy.curseforge.com/minecraft/mc-mods/refined-storage) - Will replace Applied Energistics 2 with this if it still has the stupid in-world crystal growth requirement
-* [Storage Drawers](https://www.curseforge.com/minecraft/mc-mods/storage-drawers)
+* [Storage Drawers](https://www.curseforge.com/minecraft/mc-mods/storage-drawers) or [Assorted Storage](https://www.curseforge.com/minecraft/mc-mods/assorted-storage)
 * [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
 
 ### Maybe add
