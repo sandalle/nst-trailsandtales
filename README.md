@@ -294,8 +294,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
   - https://github.com/Harleyoc1/ChunkAnimator/issues/24
 * [MineColonies](https://www.curseforge.com/minecraft/mc-mods/minecolonies) - Bug is in Corail Tombstone, but we want that more
   - https://github.com/Corail31/tombstone_lite/issues/160
-* [Minecraft Transit Railway (MTR)](https://www.curseforge.com/minecraft/mc-mods/minecraft-transit-railway) - Fails on dedicated servers
-  - https://github.com/jonafanho/Minecraft-Transit-Railway/issues/701
+
 
 ### Mods to be disabled on dedicated servers
 * [Better F3 Plus](https://www.curseforge.com/minecraft/mc-mods/better-f3-plus)
