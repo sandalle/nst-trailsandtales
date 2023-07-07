@@ -79,6 +79,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 * [Corail Tombstone](https://www.curseforge.com/minecraft/mc-mods/corail-tombstone)
 * [Craftable Horse Armour & Saddle](https://www.curseforge.com/minecraft/mc-mods/cha-s)
 * [Durability Tooltip](https://www.curseforge.com/minecraft/mc-mods/durability-tooltip)
+* [Easier Sleeping](https://www.curseforge.com/minecraft/mc-mods/easier-sleeping)
 * [Easy Magic](https://www.curseforge.com/minecraft/mc-mods/easy-magic)
 * [Elytra Slot](https://www.curseforge.com/minecraft/mc-mods/elytra-slot)
 * [Enchantment Sort](https://www.curseforge.com/minecraft/mc-mods/enchantment-sort)
@@ -330,5 +331,6 @@ Once these mods are updated for 1.20.1 they'll be added
 
 ### Maybe add
 Might add these.
+* [Chocobo Knights of the Crafting Table](https://www.curseforge.com/minecraft/mc-mods/chocobo-knights-of-the-crafting-table)
 * [Planters](https://www.curseforge.com/minecraft/mc-mods/planters-forge)
 
