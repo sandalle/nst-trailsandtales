@@ -332,5 +332,6 @@ Once these mods are updated for 1.20.1 they'll be added
 Might add these.
 * [Chocobo Knights of the Crafting Table](https://www.curseforge.com/minecraft/mc-mods/chocobo-knights-of-the-crafting-table)
 * [Experience Obelisk](https://www.curseforge.com/minecraft/mc-mods/experience-obelisk) I miss this (and other items) from EnderIO
+* [Iron's Spells 'n Spellbooks](https://www.curseforge.com/minecraft/mc-mods/irons-spells-n-spellbooks)
 * [Planters](https://www.curseforge.com/minecraft/mc-mods/planters-forge)
 
