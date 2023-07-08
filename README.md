@@ -50,6 +50,8 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
   - [Pam's HarvestCraft2 - Food Extended](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-extended)
 * [Pam's HarvestCraft2 - Trees](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-trees)
 * [PlayerRevive](https://www.curseforge.com/minecraft/mc-mods/playerrevive)
+* [Productive Bees](https://www.curseforge.com/minecraft/mc-mods/productivebees)
+* [Project MMO](https://www.curseforge.com/minecraft/mc-mods/project-mmo)
 * [Security Craft](https://www.curseforge.com/minecraft/mc-mods/security-craft)
 * [Silent Gear](https://www.curseforge.com/minecraft/mc-mods/silent-gear)
 * [Silent's Gems](https://www.curseforge.com/minecraft/mc-mods/silents-gems)
@@ -107,8 +109,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 * [Neat](https://www.curseforge.com/minecraft/mc-mods/neat)
 * [Overflowing Bars](https://www.curseforge.com/minecraft/mc-mods/overflowing-bars)
 * [Polymorph](https://www.curseforge.com/minecraft/mc-mods/polymorph)
-* [Productive Bees](https://www.curseforge.com/minecraft/mc-mods/productivebees)
-* [Project MMO](https://www.curseforge.com/minecraft/mc-mods/project-mmo)
+* [Seamless](https://www.curseforge.com/minecraft/mc-mods/seamless)
 * [Server Tab Info](https://www.curseforge.com/minecraft/mc-mods/server-tab-info)
 * [ServerCore](https://www.curseforge.com/minecraft/mc-mods/servercore)
 * [Trample Stopper](https://www.curseforge.com/minecraft/mc-mods/trample-stopper)
@@ -152,6 +153,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 * [Blocky Stone Doors](https://www.curseforge.com/minecraft/mc-mods/blocky-doors)
 * [Chimes](https://www.curseforge.com/minecraft/mc-mods/chimes)
 * [CleanView](https://www.curseforge.com/minecraft/mc-mods/cleanview)
+* [Connected Glass](https://www.curseforge.com/minecraft/mc-mods/connected-glass)
 * [Corail Pillar](https://www.curseforge.com/minecraft/mc-mods/corail-pillar)
 * [Corail Woodcutter](https://www.curseforge.com/minecraft/mc-mods/corail-woodcutter)
 * [Cosmetic Armor Reworked](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked)
@@ -294,6 +296,10 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
   - https://github.com/Harleyoc1/ChunkAnimator/issues/24
 * [MineColonies](https://www.curseforge.com/minecraft/mc-mods/minecolonies) - Bug is in Corail Tombstone, but we want that more
   - https://github.com/Corail31/tombstone_lite/issues/160
+* [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli)
+  - Not updated for 1.20.1 yet, but pulled in by Ars Nouveau
+  - [Ars Nouveau](https://www.curseforge.com/minecraft/mc-mods/ars-nouveau)
+    - Depends on Patchouli
 
 
 ### Mods to be disabled on dedicated servers
@@ -309,7 +315,6 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 Once these mods are updated for 1.20.1 they'll be added
 * [Akashic Tome](https://www.curseforge.com/minecraft/mc-mods/akashic-tome)
 * [Always a Wither Skull](https://www.curseforge.com/minecraft/mc-mods/always-a-wither-skull)
-* [Ars Nouveau](https://www.curseforge.com/minecraft/mc-mods/ars-nouveau)
 * [Chance Cubes](https://www.curseforge.com/minecraft/mc-mods/chance-cubes)
 * [DimStorage](https://www.curseforge.com/minecraft/mc-mods/dimstorage)
   - Will replace this with these two tried-and-true ones if there are issues
@@ -325,6 +330,7 @@ Once these mods are updated for 1.20.1 they'll be added
   - [Mekanism Generators](https://www.curseforge.com/minecraft/mc-mods/mekanism-generators)
   - [Mekanism Tools](https://www.curseforge.com/minecraft/mc-mods/mekanism-tools)
 * [Refined Storage](https://legacy.curseforge.com/minecraft/mc-mods/refined-storage) - Will replace Applied Energistics 2 with this if it still has the stupid in-world crystal growth requirement
+  - [ExtraStorage](https://www.curseforge.com/minecraft/mc-mods/extrastorage)
 * [Storage Drawers](https://www.curseforge.com/minecraft/mc-mods/storage-drawers) or [Assorted Storage](https://www.curseforge.com/minecraft/mc-mods/assorted-storage)
 * [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
 
