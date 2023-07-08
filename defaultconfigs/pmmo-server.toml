@@ -11,13 +11,13 @@
 
 #Settings related level gain
 [Levels]
-	#The highest level a player can acheive in any skill.
+	#The highest level a player can achieve in any skill.
 	#NOTE: if this is changing on you to a lower value, that's intentional
 	#If your formula makes the required xp to get max level greater than
 	#pmmo can store, pmmo will replace your value with the actual max.
 	#Range: > 1
 	"Max Level" = 329
-	#shold levels be determined using an exponential forumula?
+	#should levels be determined using an exponential formula?
 	"Use Exponential Formula" = true
 	#=====LEAVE -1 VALUE UNLESS YOU WANT STATIC LEVELS=====
 	#Replacing the -1 and adding values to this list will set the xp required to advance for each
@@ -162,7 +162,7 @@
 			[XP_Gains.Event_XP_Specifics.Player_Actions."SWIM_SPRINTING Skills and Ratios"]
 				swimming = 200.0
 
-#All setings governing party behavior
+#All settings governing party behavior
 [Party]
 	#How close do party members have to be to share experience.
 	#Range: > 0
@@ -185,7 +185,7 @@
 
 	#How should mob attributes be calculated with respect to the player's level.
 	[Mob_Scaling.Formula]
-		#shold levels be determined using an exponential forumula?
+		#should levels be determined using an exponential formula?
 		"Use Exponential Formula" = true
 
 		#Settings for Linear scaling configuration
@@ -237,4 +237,12 @@
 	"Vein Charge Modifier" = 1.0
 	#Tools in this list do not cause the vein miner to trigger
 	Vein_Blacklist = ["silentgear:saw"]
+	#A constant charge rate given to all players regardless of equipment.
+	#Items worn will add to this amount, not replace it.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	"base charge rate" = 0.01
+	#A minimum capacity given to all players regardless of equipment.
+	#Items worn will add to this amount, not replace it.
+	#Range: > 0
+	"base vein capacity" = 0
 
