@@ -20,7 +20,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 
 
 # Forge
-[1.20.1-47.0.35](http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.20.1.html)
+[1.20.1-47.1.0](http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.20.1.html)
 
 
 # Texture Packs
@@ -31,6 +31,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 ## General Mods
 * [Advanced Netherite](https://www.curseforge.com/minecraft/mc-mods/advanced-netherite)
 * [Animal Feeding](https://www.curseforge.com/minecraft/mc-mods/animal-feeding-trough) - May be removed, looks like Farming for Blockheads already has this?
+* [Chocobo Knights of the Crafting Table](https://www.curseforge.com/minecraft/mc-mods/chocobo-knights-of-the-crafting-table)
 * [Chunk Loaders](https://www.curseforge.com/minecraft/mc-mods/chunk-loaders)
 * [Compressium](https://www.curseforge.com/minecraft/mc-mods/compressium)
 * [Despawning Eggs Hatch](https://www.curseforge.com/minecraft/mc-mods/despawning-eggs-hatch)
@@ -97,6 +98,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 * [Harvest with ease](https://www.curseforge.com/minecraft/mc-mods/harvest-with-ease)
 * [Inventory Sorter](https://www.curseforge.com/minecraft/mc-mods/inventory-sorter)
 * [Jade](https://www.curseforge.com/minecraft/mc-mods/jade)
+  - [JadeColonies](https://www.curseforge.com/minecraft/mc-mods/jadecolonies)
 * [JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap)
   - [JourneyMap Integration](https://www.curseforge.com/minecraft/mc-mods/journeymap-integration)
 * [Just Another Rotten Flesh to Leather Mod](https://www.curseforge.com/minecraft/mc-mods/just-another-rotten-flesh-to-leather-mod)
@@ -190,6 +192,8 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 * [Large Ore Deposits](https://www.curseforge.com/minecraft/mc-mods/large-ore-deposits)
 * [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass)
 * [The Lost Cities](https://www.curseforge.com/minecraft/mc-mods/the-lost-cities)
+* [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
+  - [Twilight Forest: The Lost Blocks](https://www.curseforge.com/minecraft/mc-mods/twilight-forest-the-lost-blocks)
 * [Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones)
 
 
@@ -332,11 +336,9 @@ Once these mods are updated for 1.20.1 they'll be added
 * [Refined Storage](https://legacy.curseforge.com/minecraft/mc-mods/refined-storage) - Will replace Applied Energistics 2 with this if it still has the stupid in-world crystal growth requirement
   - [ExtraStorage](https://www.curseforge.com/minecraft/mc-mods/extrastorage)
 * [Storage Drawers](https://www.curseforge.com/minecraft/mc-mods/storage-drawers) or [Assorted Storage](https://www.curseforge.com/minecraft/mc-mods/assorted-storage)
-* [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
 
 ### Maybe add
 Might add these.
-* [Chocobo Knights of the Crafting Table](https://www.curseforge.com/minecraft/mc-mods/chocobo-knights-of-the-crafting-table)
 * [Experience Obelisk](https://www.curseforge.com/minecraft/mc-mods/experience-obelisk) I miss this (and other items) from EnderIO
 * [Iron's Spells 'n Spellbooks](https://www.curseforge.com/minecraft/mc-mods/irons-spells-n-spellbooks)
 * [Planters](https://www.curseforge.com/minecraft/mc-mods/planters-forge)

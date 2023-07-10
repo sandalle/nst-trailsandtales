@@ -1,0 +1,51 @@
+
+["ChocoboKnights of the Crafting Table Config: ConfigEntityMoomba"]
+	#Range: 0.0 ~ 30.0
+	statArmorLevel0 = 0.0
+	#Range: 0.0 ~ 30.0
+	statArmorMax = 0.0
+	#Range: 0.0 ~ 30.0
+	statArmorMin = 0.0
+	#Range: 0.0 ~ 20.0
+	statArmorToughnessLevel0 = 0.0
+	#Range: 0.0 ~ 20.0
+	statArmorToughnessMax = 0.0
+	#Range: 0.0 ~ 20.0
+	statArmorToughnessMin = 0.0
+	#Range: 0.0 ~ 2048.0
+	statAttackDamageLevel0 = 1.0
+	#Range: 0.0 ~ 2048.0
+	statAttackDamageMax = 1.0
+	#Range: 0.0 ~ 2048.0
+	statAttackDamageMin = 1.0
+	#Range: 0.0 ~ 2048.0
+	statFollowRangeLevel0 = 20.0
+	#Range: 0.0 ~ 2048.0
+	statFollowRangeMax = 20.0
+	#Range: 0.0 ~ 2048.0
+	statFollowRangeMin = 20.0
+	#Range: 0.0 ~ 1024.0
+	statHealthLevel0 = 16.0
+	#Range: 0.0 ~ 1024.0
+	statHealthMax = 16.0
+	#Range: 0.0 ~ 1024.0
+	statHealthMin = 16.0
+	#Range: 0.0 ~ 1.0
+	statKnockbackResistanceLevel0 = 0.0
+	#Range: 0.0 ~ 1.0
+	statKnockbackResistanceMax = 0.0
+	#Range: 0.0 ~ 1.0
+	statKnockbackResistanceMin = 0.0
+	#Range: 0.0 ~ 1024.0
+	statLuckLevel0 = 0.0
+	#Range: 0.0 ~ 1024.0
+	statLuckMax = 0.0
+	#Range: 0.0 ~ 1024.0
+	statLuckMin = 0.0
+	#Range: 0.0 ~ 1024.0
+	statMovementSpeedLevel0 = 0.3
+	#Range: 0.0 ~ 1024.0
+	statMovementSpeedMax = 0.3
+	#Range: 0.0 ~ 1024.0
+	statMovementSpeedMin = 0.3
+
