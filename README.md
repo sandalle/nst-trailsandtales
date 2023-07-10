@@ -198,6 +198,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 
 
 ## Magic Mods
+* [Ars Nouveau](https://www.curseforge.com/minecraft/mc-mods/ars-nouveau)
 * [Dragon Mounts: Legacy](https://www.curseforge.com/minecraft/mc-mods/dragon-mounts-legacy)
 * [EvilCraft](https://www.curseforge.com/minecraft/mc-mods/evilcraft)
 * [Lite Exchange](https://www.curseforge.com/minecraft/mc-mods/lite-exchange) - Until ProjectE or equivalent come up
@@ -280,6 +281,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 * [Moonlight Lib](https://www.curseforge.com/minecraft/mc-mods/selene)
 * [MowLib](https://www.curseforge.com/minecraft/mc-mods/mowlib)
 * [Multi-Piston](https://www.curseforge.com/minecraft/mc-mods/multi-piston)
+* [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli)
 * [PolyLib](https://www.curseforge.com/minecraft/mc-mods/polylib)
 * [Puzzles Lib](https://www.curseforge.com/minecraft/mc-mods/puzzles-lib)
 * [Resourceful Config](https://www.curseforge.com/minecraft/mc-mods/resourceful-config)
@@ -300,10 +302,6 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
   - https://github.com/Harleyoc1/ChunkAnimator/issues/24
 * [MineColonies](https://www.curseforge.com/minecraft/mc-mods/minecolonies) - Bug is in Corail Tombstone, but we want that more
   - https://github.com/Corail31/tombstone_lite/issues/160
-* [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli)
-  - Not updated for 1.20.1 yet, but pulled in by Ars Nouveau
-  - [Ars Nouveau](https://www.curseforge.com/minecraft/mc-mods/ars-nouveau)
-    - Depends on Patchouli
 
 
 ### Mods to be disabled on dedicated servers
