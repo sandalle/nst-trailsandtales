@@ -545,3 +545,9 @@
 		#Noteblocks with a zombie head will scare off villagers
 		enabled = true
 
+	[tweaks.bad_luck_tweaks]
+		#Hit a void cat, get the unluck
+		cat_unluck = true
+		#If you have unluck you are more likely to get hit by a lighting
+		lightning_unluck = true
+

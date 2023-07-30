@@ -1,5 +1,10 @@
 
 ["ChocoboKnights of the Crafting Table Config: ConfigEntityBomb"]
+	#Light level the lantern provides. slightly less than a torch at 13
+	#Range: 0 ~ 15
+	lanternLightLevel = 13
+	#Range: 1 ~ 60
+	lanternLightPersistsInSeconds = 3
 	#Range: 0.0 ~ 30.0
 	statArmorLevel0 = 0.0
 	#Range: 0.0 ~ 30.0

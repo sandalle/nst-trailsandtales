@@ -20,7 +20,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 
 
 # Forge
-[1.20.1-47.1.0](http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.20.1.html)
+[1.20.1-47.1.3](http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.20.1.html)
 
 
 # Texture Packs
@@ -30,7 +30,8 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 # Mods
 ## General Mods
 * [Advanced Netherite](https://www.curseforge.com/minecraft/mc-mods/advanced-netherite)
-* [Animal Feeding](https://www.curseforge.com/minecraft/mc-mods/animal-feeding-trough) - May be removed, looks like Farming for Blockheads already has this?
+* [Botany Pots](https://www.curseforge.com/minecraft/mc-mods/botany-pots)
+* [Botany Trees](https://www.curseforge.com/minecraft/mc-mods/botany-trees)
 * [Chocobo Knights of the Crafting Table](https://www.curseforge.com/minecraft/mc-mods/chocobo-knights-of-the-crafting-table)
 * [Chunk Loaders](https://www.curseforge.com/minecraft/mc-mods/chunk-loaders)
 * [Compressium](https://www.curseforge.com/minecraft/mc-mods/compressium)
@@ -58,6 +59,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 * [Silent's Gems](https://www.curseforge.com/minecraft/mc-mods/silents-gems)
 * [Sit](https://www.curseforge.com/minecraft/mc-mods/sit)
 * [Statues](https://www.curseforge.com/minecraft/mc-mods/statues)
+* [Storage Drawers](https://www.curseforge.com/minecraft/mc-mods/storage-drawers)
 * [Trash Cans](https://www.curseforge.com/minecraft/mc-mods/trash-cans)
 * [TrashSlot](https://www.curseforge.com/minecraft/mc-mods/trashslot)
 
@@ -105,6 +107,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 * [Just Enough Items (JEI)](https://www.curseforge.com/minecraft/mc-mods/jei)
   - [Just Enough Effect Descriptions (JEED)](https://www.curseforge.com/minecraft/mc-mods/just-enough-effect-descriptions-jeed)
   - [Just Enough Professions (JEP)](https://www.curseforge.com/minecraft/mc-mods/just-enough-professions-jep)
+  - [Just Enough Resourcesd (JER)](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer)
 * [Light Overlay](https://www.curseforge.com/minecraft/mc-mods/light-overlay)
 * [Modern Startup QOL](https://www.curseforge.com/minecraft/mc-mods/modern-startup-qol)
 * [Modern UI](https://www.curseforge.com/minecraft/mc-mods/modern-ui)
@@ -143,6 +146,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 * [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus)
 * [Packet Size Doubler](https://www.curseforge.com/minecraft/mc-mods/packet-size-doubler-forge) - Might be duplicated by other mods (e.g. Connectivity or Adaptive Performance Tweaks)?
 * [Rubidium](https://www.curseforge.com/minecraft/mc-mods/rubidium)
+  - [Magnesium/Rubidium Extras](https://www.curseforge.com/minecraft/mc-mods/magnesium-extras)
 * [Server Performance - Smooth Chunk Save](https://www.curseforge.com/minecraft/mc-mods/smooth-chunk-save)
 * [Yeetus Experimentus](https://www.curseforge.com/minecraft/mc-mods/yeetusexperimentus)
 
@@ -164,6 +168,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 * [Handcrafted](https://www.curseforge.com/minecraft/mc-mods/handcrafted)
 * [Macaw's Bridges](https://www.curseforge.com/minecraft/mc-mods/macaws-bridges)
   - [Macaw's Bridges - Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/macaws-bridges-biome-o-plenty)
+* [Macaw's Doors](https://www.curseforge.com/minecraft/mc-mods/macaws-doors)
 * [Macaw's Fences - Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/macaws-fences-biomes-o-plenty)
 * [Macaw's Fences and Walls](https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls)
 * [Macaw's Lights and Lamps](https://www.curseforge.com/minecraft/mc-mods/macaws-lights-and-lamps)
@@ -205,6 +210,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 * [Mystical Agriculture](https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture)
   - [Mystical Agradditions](https://www.curseforge.com/minecraft/mc-mods/mystical-agradditions)
 * [Occultism](https://www.curseforge.com/minecraft/mc-mods/occultism)
+* [Reliquary Reincarnations](https://www.curseforge.com/minecraft/mc-mods/reliquary-v1-3)
 * [Roots Classic](https://www.curseforge.com/minecraft/mc-mods/roots-classic)
 * [Scriptor Magicae](https://www.curseforge.com/minecraft/mc-mods/scriptor-magicae)
 * [Theurgy](https://www.curseforge.com/minecraft/mc-mods/theurgy)
@@ -218,6 +224,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
   - [Applied Energistics 2 Wireless Terminals](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2-wireless-terminals)
 * [CC: Tweaked](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked)
 * [Create](https://www.curseforge.com/minecraft/mc-mods/create)
+* [Ender IO](https://www.curseforge.com/minecraft/mc-mods/ender-io) - May remove after Mekanism is added. Like this mod too, though.
 * [Item Collectors](https://www.curseforge.com/minecraft/mc-mods/item-collectors)
 * [OpenBlocks Elevator](https://www.curseforge.com/minecraft/mc-mods/openblocks-elevator)
 * [RFTools Base](https://www.curseforge.com/minecraft/mc-mods/rftools-base)
@@ -227,7 +234,6 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
   - [RFTools Power](https://www.curseforge.com/minecraft/mc-mods/rftools-power)
   - [RFTools Storage](https://www.curseforge.com/minecraft/mc-mods/rftools-storage) - May remove as we have Applied Energistics 2 for storage
   - [RFTools Utility](https://www.curseforge.com/minecraft/mc-mods/rftools-utility)
-* [Travel Anchors](https://www.curseforge.com/minecraft/mc-mods/travel-anchors)
 * [Ultimate Car Mod](https://www.curseforge.com/minecraft/mc-mods/ultimate-car-mod)
 * [Ultimate Plane Mod](https://www.curseforge.com/minecraft/mc-mods/ultimate-plane-mod)
 * [Useful Railroads](https://www.curseforge.com/minecraft/mc-mods/useful-railroads)
@@ -256,6 +262,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 * [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-api)
 * [Balm](https://www.curseforge.com/minecraft/mc-mods/balm)
 * [BlockUI](https://www.curseforge.com/minecraft/mc-mods/blockui)
+* [Bookshelf](https://www.curseforge.com/minecraft/mc-mods/bookshelf)
 * [Botarium](https://www.curseforge.com/minecraft/mc-mods/botarium)
 * [Caelus API](https://www.curseforge.com/minecraft/mc-mods/caelus)
 * [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config)
@@ -271,7 +278,6 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 * [Fusion](https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures)
 * [GeckoLib](https://www.curseforge.com/minecraft/mc-mods/geckolib)
 * [Guide-API Village and Pillage](https://www.curseforge.com/minecraft/mc-mods/guide-api-village-and-pillage)
-* [Guidebook](https://www.curseforge.com/minecraft/mc-mods/guidebook)
 * [Kotlin for Forge](https://www.curseforge.com/minecraft/mc-mods/kotlin-for-forge)
 * [Lemon Core](https://www.curseforge.com/minecraft/mc-mods/lemon-core)
 * [Library Ferret](https://www.curseforge.com/minecraft/mc-mods/library-ferret-forge)
@@ -300,6 +306,8 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 ## Mods added, but disabled until bugs fixed
 * [Chunk Animator](https://www.curseforge.com/minecraft/mc-mods/chunk-animator) - Breaks with Rubidium mod
   - https://github.com/Harleyoc1/ChunkAnimator/issues/24
+* [Guidebook](https://www.curseforge.com/minecraft/mc-mods/guidebook)
+  - TBD, breaks EnderIO
 * [MineColonies](https://www.curseforge.com/minecraft/mc-mods/minecolonies) - Bug is in Corail Tombstone, but we want that more
   - https://github.com/Corail31/tombstone_lite/issues/160
 
@@ -333,7 +341,6 @@ Once these mods are updated for 1.20.1 they'll be added
   - [Mekanism Tools](https://www.curseforge.com/minecraft/mc-mods/mekanism-tools)
 * [Refined Storage](https://legacy.curseforge.com/minecraft/mc-mods/refined-storage) - Will replace Applied Energistics 2 with this if it still has the stupid in-world crystal growth requirement
   - [ExtraStorage](https://www.curseforge.com/minecraft/mc-mods/extrastorage)
-* [Storage Drawers](https://www.curseforge.com/minecraft/mc-mods/storage-drawers) or [Assorted Storage](https://www.curseforge.com/minecraft/mc-mods/assorted-storage)
 
 ### Maybe add
 Might add these.
