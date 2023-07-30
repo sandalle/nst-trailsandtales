@@ -38,7 +38,6 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 * [Despawning Eggs Hatch](https://www.curseforge.com/minecraft/mc-mods/despawning-eggs-hatch)
 * [DimStorage](https://www.curseforge.com/minecraft/mc-mods/dimstorage)
 * [Ding](https://www.curseforge.com/minecraft/mc-mods/ding)
-* [Doctor Who - Weeping Angels](https://www.curseforge.com/minecraft/mc-mods/weeping-angels-mod) - Might get removed
 * [Healing Campfire](https://www.curseforge.com/minecraft/mc-mods/healing-campfire)
 * [Iron Chests](https://www.curseforge.com/minecraft/mc-mods/iron-chests)
 * [Iron Jetpacks](https://www.curseforge.com/minecraft/mc-mods/iron-jetpacks)
