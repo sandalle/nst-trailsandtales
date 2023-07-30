@@ -217,15 +217,14 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 
 
 ## Tech Mods
-* [Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2)
-  - [AE2 Things](https://www.curseforge.com/minecraft/mc-mods/ae2-things-forge)
-  - [AEInfinityBooster](https://www.curseforge.com/minecraft/mc-mods/aeinfinitybooster)
-  - [Applied Energistics 2 Wireless Terminals](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2-wireless-terminals)
 * [CC: Tweaked](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked)
 * [Create](https://www.curseforge.com/minecraft/mc-mods/create)
 * [Ender IO](https://www.curseforge.com/minecraft/mc-mods/ender-io) - May remove after Mekanism is added. Like this mod too, though.
 * [Item Collectors](https://www.curseforge.com/minecraft/mc-mods/item-collectors)
 * [OpenBlocks Elevator](https://www.curseforge.com/minecraft/mc-mods/openblocks-elevator)
+* [Refined Storage](https://legacy.curseforge.com/minecraft/mc-mods/refined-storage) - Will replace Applied Energistics 2 with this if it still has the stupid in-world crystal growth requirement
+  - [ExtraStorage](https://www.curseforge.com/minecraft/mc-mods/extrastorage)
+  - [Refined Storage Addons](https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons)
 * [RFTools Base](https://www.curseforge.com/minecraft/mc-mods/rftools-base)
   - [RFTools Builder](https://www.curseforge.com/minecraft/mc-mods/rftools-builder)
   - [RFTools Control](https://www.curseforge.com/minecraft/mc-mods/rftools-control)
@@ -338,8 +337,6 @@ Once these mods are updated for 1.20.1 they'll be added
   - [Mekanism Additions](https://www.curseforge.com/minecraft/mc-mods/mekanism-additions)
   - [Mekanism Generators](https://www.curseforge.com/minecraft/mc-mods/mekanism-generators)
   - [Mekanism Tools](https://www.curseforge.com/minecraft/mc-mods/mekanism-tools)
-* [Refined Storage](https://legacy.curseforge.com/minecraft/mc-mods/refined-storage) - Will replace Applied Energistics 2 with this if it still has the stupid in-world crystal growth requirement
-  - [ExtraStorage](https://www.curseforge.com/minecraft/mc-mods/extrastorage)
 
 ### Maybe add
 Might add these.
