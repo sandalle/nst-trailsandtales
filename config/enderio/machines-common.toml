@@ -99,6 +99,14 @@ paintingMachineEnergyCost = 2000
 		#Range: > 1
 		vibrant = 160
 
+	[energy.wiredCharger]
+		#The base energy capacity in uI.
+		#Range: > 1
+		capacity = 1000000
+		#The base energy consumption in uI/t.
+		#Range: > 1
+		usage = 100
+
 [enchanter]
 	#The lapis cost is enchant level multiplied by this value.
 	lapisCostFactor = 3.0

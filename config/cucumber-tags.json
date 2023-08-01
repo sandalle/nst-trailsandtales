@@ -25,5 +25,6 @@
   "forge:dusts/saltpeter": "null",
   "forge:ingots/graphite": "lemon_core:graphite_ingot",
   "forge:ingots/platinum": "alltheores:platinum_ingot",
-  "forge:silicon": "lemon_core:silicon"
+  "forge:silicon": "lemon_core:silicon",
+  "forge:gems/peridot": "alltheores:peridot"
 }

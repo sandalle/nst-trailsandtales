@@ -223,6 +223,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 * [Item Collectors](https://www.curseforge.com/minecraft/mc-mods/item-collectors)
 * [OpenBlocks Elevator](https://www.curseforge.com/minecraft/mc-mods/openblocks-elevator)
 * [Refined Storage](https://legacy.curseforge.com/minecraft/mc-mods/refined-storage) - Will replace Applied Energistics 2 with this if it still has the stupid in-world crystal growth requirement
+  - [Extra Disks](https://www.curseforge.com/minecraft/mc-mods/extra-disks)
   - [ExtraStorage](https://www.curseforge.com/minecraft/mc-mods/extrastorage)
   - [Refined Storage Addons](https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons)
 * [RFTools Base](https://www.curseforge.com/minecraft/mc-mods/rftools-base)
