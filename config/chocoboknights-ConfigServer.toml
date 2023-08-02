@@ -85,9 +85,9 @@
 	#Range: 0.0 ~ 1.0
 	randomCustomNameChance = 0.001
 	#Show message for Chocobo Knights Discord Server. (Working on making this client side)
-	showMessageForDiscord = true
+	showMessageForDiscord = false
 	#Show message if there is a Chocobo Knights Mod update. (Working on making this client side)
-	showMessageForUpdate = true
+	showMessageForUpdate = false
 	#Range: 0.0 ~ 1.0
 	tameChanceBomb = 0.15
 	#Range: 0.0 ~ 1.0
