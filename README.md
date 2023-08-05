@@ -38,6 +38,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 * [Despawning Eggs Hatch](https://www.curseforge.com/minecraft/mc-mods/despawning-eggs-hatch)
 * [DimStorage](https://www.curseforge.com/minecraft/mc-mods/dimstorage)
 * [Ding](https://www.curseforge.com/minecraft/mc-mods/ding)
+* [Dynamic Lights](https://www.curseforge.com/minecraft/mc-mods/dynamic-lights)
 * [Healing Campfire](https://www.curseforge.com/minecraft/mc-mods/healing-campfire)
 * [Iron Chests](https://www.curseforge.com/minecraft/mc-mods/iron-chests)
 * [Iron Jetpacks](https://www.curseforge.com/minecraft/mc-mods/iron-jetpacks)
@@ -335,6 +336,7 @@ Once these mods are updated for 1.20.1 they'll be added
   - [Blastcraft](https://www.curseforge.com/minecraft/mc-mods/blast-craft)
   - [Modular Force Fields Systems](https://legacy.curseforge.com/minecraft/mc-mods/modular-forcefields)
   - [Nuclear Science](https://legacy.curseforge.com/minecraft/mc-mods/nuclear-science)
+* [Industrial Foregoing](https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing)
 * [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism) - Will replace XNet
   - [Mekanism Additions](https://www.curseforge.com/minecraft/mc-mods/mekanism-additions)
   - [Mekanism Generators](https://www.curseforge.com/minecraft/mc-mods/mekanism-generators)

@@ -110,8 +110,3 @@
 		#The amount of mining operations the spirit can perform before breaking.
 		durability = 1600
 
-#Item Settings
-[items]
-	#Entity types that cannot be captured in a soul gem. Specify by their full id, e.g "minecraft:zombie"
-	soulgemEntityDenyList = ["minecraft:wither", "minecraft:ender_dragon"]
-
