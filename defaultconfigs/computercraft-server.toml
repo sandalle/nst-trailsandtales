@@ -24,6 +24,15 @@ log_computer_errors = true
 #Require players to be in creative mode and be opped in order to interact with
 #command computers. This is the default behaviour for vanilla's Command blocks.
 command_require_creative = true
+#A list of generic methods or method sources to disable. Generic methods are
+#methods added to a block/block entity when there is no explicit peripheral
+#provider. This includes inventory methods (i.e. inventory.getItemDetail,
+#inventory.pushItems), and (if on Forge), the fluid_storage and energy_storage
+#methods.
+#Methods in this list can either be a whole group of methods (computercraft:inventory)
+#or a single method (computercraft:inventory#pushItems).
+#
+disabled_generic_methods = []
 
 #Controls execution behaviour of computers. This is largely intended for
 #fine-tuning servers, and generally shouldn't need to be touched.

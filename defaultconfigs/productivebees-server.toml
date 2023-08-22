@@ -154,7 +154,7 @@
 	#Time bonus gained from time upgrade. 0.2 means 20% reduction of a bee's time inside the hive or centrifuge processing time.
 	#Range: 0.0 ~ 1.0
 	timeBonus = 0.2
-	#Multiplier per productivity upgrade installed in the hive.
+	#Multiplier per productivity alpha upgrade installed in the hive.
 	#Range: 1.0 ~ 2.147483647E9
 	productivityMultiplier = 1.4
 	#Chance for a bee to produce an offspring after a hive visit.
@@ -166,4 +166,13 @@
 	#Chance for a gene sample to be taken from a bee after a hive visit.
 	#Range: 0.0 ~ 1.0
 	samplerChance = 0.05
+	#Multiplier per productivity beta upgrade installed in the hive.
+	#Range: 1.0 ~ 2.147483647E9
+	productivityMultiplier2 = 1.5
+	#Multiplier per productivity gamma upgrade installed in the hive.
+	#Range: 1.0 ~ 2.147483647E9
+	productivityMultiplier3 = 2.0
+	#Multiplier per productivity omega upgrade installed in the hive.
+	#Range: 1.0 ~ 2.147483647E9
+	productivityMultiplier4 = 2.6
 

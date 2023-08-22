@@ -211,6 +211,9 @@
 	debuginventories = false
 	#Turn this on if you're using this world for blueprint building and scanning. [Default: false]
 	blueprintbuildmode = false
+	#Max amount of items we scan of a given subtype before we stop. [Default: 100, min: 10, max: 1000]
+	#Range: 10 ~ 1000
+	maxitemsubtypescan = 100
 
 #All configurations related to pathfinding
 [pathfinding]

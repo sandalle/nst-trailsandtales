@@ -53,6 +53,7 @@
   "minecraft:energy_storage": null,
   "minecraft:progress": null,
   "jade:object_name": null,
+  "theurgy:mercury_flux": null,
   "car:tank": null,
   "car:generator": null,
   "car:fluid_extractor": null,

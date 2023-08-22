@@ -71,6 +71,19 @@
 		energyUse = 1
 		maxEnergy = 1000
 
+	[items.travelling]
+		#Range: 4 ~ 512
+		blinkRange = 24
+		#Range: 0 ~ 1200
+		disabledTime = 5
+		energyUse = 1000
+		maxEnergy = 100000
+		#the following config values are only used if EIOMachines is loaded
+		#Range: 4 ~ 512
+		itemToBlockRange = 192
+		#Range: 4 ~ 512
+		blockToBlockRange = 96
+
 [darksteel]
 
 	[darksteel.darksteelaxe]
