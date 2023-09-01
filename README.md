@@ -207,7 +207,6 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 * [Ars Nouveau](https://www.curseforge.com/minecraft/mc-mods/ars-nouveau)
 * [Dragon Mounts: Legacy](https://www.curseforge.com/minecraft/mc-mods/dragon-mounts-legacy)
 * [EvilCraft](https://www.curseforge.com/minecraft/mc-mods/evilcraft)
-* [Lite Exchange](https://www.curseforge.com/minecraft/mc-mods/lite-exchange) - Until ProjectE or equivalent come up
 * [Mystical Agriculture](https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture)
   - [Mystical Agradditions](https://www.curseforge.com/minecraft/mc-mods/mystical-agradditions)
 * [Occultism](https://www.curseforge.com/minecraft/mc-mods/occultism)
@@ -280,7 +279,6 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 * [GeckoLib](https://www.curseforge.com/minecraft/mc-mods/geckolib)
 * [Guide-API Village and Pillage](https://www.curseforge.com/minecraft/mc-mods/guide-api-village-and-pillage)
 * [Kotlin for Forge](https://www.curseforge.com/minecraft/mc-mods/kotlin-for-forge)
-* [Lemon Core](https://www.curseforge.com/minecraft/mc-mods/lemon-core)
 * [Library Ferret](https://www.curseforge.com/minecraft/mc-mods/library-ferret-forge)
 * [LibX](https://www.curseforge.com/minecraft/mc-mods/libx)
 * [McJtyLib](https://www.curseforge.com/minecraft/mc-mods/mcjtylib)
