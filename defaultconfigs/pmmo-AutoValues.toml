@@ -34,21 +34,6 @@
 		"CONSUME Xp Award Values Generate" = true
 		"CRAFT Xp Award Values Generate" = true
 		"RECEIVE_DAMAGE Xp Award Values Generate" = true
-		"FROM_MOBS Xp Award Values Generate" = true
-		"FROM_PLAYERS Xp Award Values Generate" = true
-		"FROM_ANIMALS Xp Award Values Generate" = true
-		"FROM_PROJECTILES Xp Award Values Generate" = true
-		"FROM_MAGIC Xp Award Values Generate" = true
-		"FROM_ENVIRONMENT Xp Award Values Generate" = true
-		"FROM_IMPACT Xp Award Values Generate" = true
-		"DEAL_MELEE_DAMAGE Xp Award Values Generate" = true
-		"MELEE_TO_MOBS Xp Award Values Generate" = true
-		"MELEE_TO_PLAYERS Xp Award Values Generate" = true
-		"MELEE_TO_ANIMALS Xp Award Values Generate" = true
-		"DEAL_RANGED_DAMAGE Xp Award Values Generate" = true
-		"RANGED_TO_MOBS Xp Award Values Generate" = true
-		"RANGED_TO_PLAYERS Xp Award Values Generate" = true
-		"RANGED_TO_ANIMALS Xp Award Values Generate" = true
 		"DEATH Xp Award Values Generate" = true
 		"ENCHANT Xp Award Values Generate" = true
 		"EFFECT Xp Award Values Generate" = true
@@ -78,6 +63,7 @@
 		"SWIM_SPRINTING Xp Award Values Generate" = true
 		"TAMING Xp Award Values Generate" = true
 		"CROUCH Xp Award Values Generate" = true
+		"DEAL_DAMAGE Xp Award Values Generate" = true
 
 	#what skills and xp amount should applicable objects be granted
 	[Auto_Values.Xp_Awards]
@@ -141,33 +127,6 @@
 
 			[Auto_Values.Xp_Awards.Entities."BREED Default Xp Award"]
 				taming = 1
-
-			[Auto_Values.Xp_Awards.Entities."FROM_MOBS Default Xp Award"]
-				endurance = 1
-
-			[Auto_Values.Xp_Awards.Entities."FROM_PLAYERS Default Xp Award"]
-				endurance = 1
-
-			[Auto_Values.Xp_Awards.Entities."FROM_ANIMALS Default Xp Award"]
-				endurance = 1
-
-			[Auto_Values.Xp_Awards.Entities."MELEE_TO_MOBS Default Xp Award"]
-				combat = 1
-
-			[Auto_Values.Xp_Awards.Entities."MELEE_TO_PLAYERS Default Xp Award"]
-				combat = 1
-
-			[Auto_Values.Xp_Awards.Entities."MELEE_TO_ANIMALS Default Xp Award"]
-				combat = 1
-
-			[Auto_Values.Xp_Awards.Entities."RANGED_TO_MOBS Default Xp Award"]
-				archery = 1
-
-			[Auto_Values.Xp_Awards.Entities."RANGED_TO_PLAYERS Default Xp Award"]
-				archery = 1
-
-			[Auto_Values.Xp_Awards.Entities."RANGED_TO_ANIMALS Default Xp Award"]
-				archery = 1
 
 			[Auto_Values.Xp_Awards.Entities."DEATH Default Xp Award"]
 				endurance = 1

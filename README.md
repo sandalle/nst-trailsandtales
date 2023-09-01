@@ -172,6 +172,8 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 * [Macaw's Doors](https://www.curseforge.com/minecraft/mc-mods/macaws-doors)
 * [Macaw's Fences - Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/macaws-fences-biomes-o-plenty)
 * [Macaw's Fences and Walls](https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls)
+* [Macaw's Furniture](https://www.curseforge.com/minecraft/mc-mods/macaws-furniture)
+  - [Macaw's Furnitures - Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/macaws-furnitures-biomes-o-plenty)
 * [Macaw's Lights and Lamps](https://www.curseforge.com/minecraft/mc-mods/macaws-lights-and-lamps)
 * [Macaw's paths and Pavings](https://www.curseforge.com/minecraft/mc-mods/macaws-paths-and-pavings)
 * [Macaw's Roofs](https://www.curseforge.com/minecraft/mc-mods/macaws-roofs)
@@ -238,6 +240,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 * [Ultimate Plane Mod](https://www.curseforge.com/minecraft/mc-mods/ultimate-plane-mod)
 * [Useful Railroads](https://www.curseforge.com/minecraft/mc-mods/useful-railroads)
 * [XNet](https://www.curseforge.com/minecraft/mc-mods/xnet)
+* [YDM's Gunblades](https://www.curseforge.com/minecraft/mc-mods/ydms-gunblades-mod)
 
 
 ### Space Mods

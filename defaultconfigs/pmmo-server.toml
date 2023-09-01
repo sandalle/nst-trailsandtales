@@ -100,31 +100,6 @@
 	#Settings related to certain default event XP awards.
 	[XP_Gains.Event_XP_Specifics]
 
-		[XP_Gains.Event_XP_Specifics.Damage_Received]
-
-			[XP_Gains.Event_XP_Specifics.Damage_Received."FROM_ENVIRONMENT Skills and Ratios"]
-				endurance = 10.0
-
-			[XP_Gains.Event_XP_Specifics.Damage_Received."FROM_IMPACT Skills and Ratios"]
-				endurance = 15.0
-
-			[XP_Gains.Event_XP_Specifics.Damage_Received."FROM_MAGIC Skills and Ratios"]
-				magic = 15.0
-
-			[XP_Gains.Event_XP_Specifics.Damage_Received."FROM_PROJECTILE Skills and Ratios"]
-				endurance = 15.0
-
-			[XP_Gains.Event_XP_Specifics.Damage_Received."RECEIVE_DAMAGE Skills and Ratios"]
-				endurance = 1.0
-
-		[XP_Gains.Event_XP_Specifics.Damage_Dealt]
-
-			[XP_Gains.Event_XP_Specifics.Damage_Dealt."DEAL_MELEE_DAMAGE Skills and Ratios"]
-				combat = 1.0
-
-			[XP_Gains.Event_XP_Specifics.Damage_Dealt."DEAL_RANGED_DAMAGE SKills and Ratios"]
-				archery = 1.0
-
 		[XP_Gains.Event_XP_Specifics.Jumps]
 
 			[XP_Gains.Event_XP_Specifics.Jumps."JUMP Skills and Ratios"]
@@ -161,6 +136,39 @@
 
 			[XP_Gains.Event_XP_Specifics.Player_Actions."SWIM_SPRINTING Skills and Ratios"]
 				swimming = 200.0
+
+		[XP_Gains.Event_XP_Specifics.Damage]
+
+			#damage dealt and received is defined by the damage type
+			#or damage type tag preceding it.  xp is awarded based on
+			#the value below multiplied by the damage applied.
+			[XP_Gains.Event_XP_Specifics.Damage.DEAL_DAMAGE]
+
+				[XP_Gains.Event_XP_Specifics.Damage.DEAL_DAMAGE."#minecraft:is_projectile"]
+					archery = 1
+
+				[XP_Gains.Event_XP_Specifics.Damage.DEAL_DAMAGE."minecraft:generic_kill"]
+					combat = 1
+
+				[XP_Gains.Event_XP_Specifics.Damage.DEAL_DAMAGE."minecraft:player_attack"]
+					combat = 1
+
+			[XP_Gains.Event_XP_Specifics.Damage.RECEIVE_DAMAGE]
+
+				[XP_Gains.Event_XP_Specifics.Damage.RECEIVE_DAMAGE."#pmmo:environment"]
+					endurance = 10
+
+				[XP_Gains.Event_XP_Specifics.Damage.RECEIVE_DAMAGE."#pmmo:magic"]
+					magic = 15
+
+				[XP_Gains.Event_XP_Specifics.Damage.RECEIVE_DAMAGE."minecraft:generic_kill"]
+					endurance = 1
+
+				[XP_Gains.Event_XP_Specifics.Damage.RECEIVE_DAMAGE."#pmmo:impact"]
+					endurance = 15
+
+				[XP_Gains.Event_XP_Specifics.Damage.RECEIVE_DAMAGE."#minecraft:is_projectile"]
+					endurance = 15
 
 #All settings governing party behavior
 [Party]
