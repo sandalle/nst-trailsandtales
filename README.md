@@ -145,8 +145,6 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 * [Not Enough Recipe Book [NERB]](https://www.curseforge.com/minecraft/mc-mods/notenoughrecipebook)
 * [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus)
 * [Packet Size Doubler](https://www.curseforge.com/minecraft/mc-mods/packet-size-doubler-forge) - Might be duplicated by other mods (e.g. Connectivity or Adaptive Performance Tweaks)?
-* [Rubidium](https://www.curseforge.com/minecraft/mc-mods/rubidium)
-  - [Magnesium/Rubidium Extras](https://www.curseforge.com/minecraft/mc-mods/magnesium-extras)
 * [Server Performance - Smooth Chunk Save](https://www.curseforge.com/minecraft/mc-mods/smooth-chunk-save)
 * [Yeetus Experimentus](https://www.curseforge.com/minecraft/mc-mods/yeetusexperimentus)
 
@@ -312,6 +310,11 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
   - TBD, breaks EnderIO
 * [MineColonies](https://www.curseforge.com/minecraft/mc-mods/minecolonies) - Bug is in Corail Tombstone, but we want that more
   - https://github.com/Corail31/tombstone_lite/issues/160
+* [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus)
+  - https://github.com/Asek3/Oculus/issues/86
+* [Rubidium](https://www.curseforge.com/minecraft/mc-mods/rubidium)
+  - Oculus now requires Rubidium to be updated, but updated Rubidium crashes on load.
+  - [Magnesium/Rubidium Extras](https://www.curseforge.com/minecraft/mc-mods/magnesium-extras)
 
 
 ### Mods to be disabled on dedicated servers
@@ -319,9 +322,6 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
   - https://github.com/cominixo/BetterF3/issues/63
 * [Modern UI](https://www.curseforge.com/minecraft/mc-mods/modern-ui)
   - https://github.com/BloCamLimb/ModernUI/issues/155
-* [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus)
-  - https://github.com/Asek3/Oculus/issues/86
-
 
 ## Mods to be added
 Once these mods are updated for 1.20.1 they'll be added
