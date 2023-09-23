@@ -52,18 +52,6 @@
 	#Seconds until Chocobo Egg Hatches
 	#Range: 0 ~ 10000000
 	chocoboHatchingTime = 600
-	#Chance to improve chocobo stats group.
-	#Range: 0.0 ~ 1.0
-	chocoboStatImprovementChanceByFoodGroup = 0.15
-	#Chance to improve chocobo stats individually.
-	#Range: 0.0 ~ 1.0
-	chocoboStatImprovementChanceByFoodIndividual = 0.8
-	#Random chance a chocobo stat will go down.
-	#Range: 0.0 ~ 1.0
-	chocoboStatImprovementChanceRandomlyDown = 0.2
-	#Random chance a chocobo stat will go up.
-	#Range: 0.0 ~ 1.0
-	chocoboStatImprovementChanceRandomlyUp = 0.5
 	#Light level the materia ore crate provides. only a little
 	#Range: 0 ~ 15
 	lightLevelMateriaCrate = 5
@@ -104,4 +92,19 @@
 	tameChanceRedXIII = 0.95
 	#Range: 0.0 ~ 1.0
 	tameChanceTonberry = 0.95
+	#Materia Capture Crystal can be used on villagers and wandering traders; default true
+	materiaCaptureCrystalAllowVillagers = true
+	#Materia Capture Crystal can be used on Monsters; default false
+	materiaCaptureCrystalAllowMonster = false
+	#Materia Capture Crystal can be used on mobs outside of ChocboKnights mod; default true
+	materiaCaptureCrystalAllowMobsOtherThanChocoboknightsMob = true
+	#Materia Capture Crystal can be used on mobs the player or players team has not tamed if tamable; default true
+	materiaCaptureCrystalAllowNonOwnerTeam = true
+	#Materia Capture Crystal can be used on tamable mobs that are not tamed.
+	materiaCaptureCrystalAllowUntamed = true
+	#Materia Capture Crystal can be used when in creative mode even if otherwise not allowed, safety in place to prevent breaking the game; default true
+	materiaCaptureCrystalAllowCreativeModeAlwaysWork = true
+	#Random chance a materia capture crystal breaks on release.
+	#Range: 0.0 ~ 1.0
+	materiaCaptureCrystalChanceBreak = 0.05
 

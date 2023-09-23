@@ -310,6 +310,7 @@
 [tools]
 	candy = true
 	stasis = true
+	altimeter = true
 
 	[tools.antique_ink]
 		enabled = true
@@ -401,6 +402,20 @@
 		stasis_deceleration = 0.9625
 		#Allow enderman to intercept any slingshot projectile
 		unrestricted_enderman_intercept = true
+		#Allows splash potions to be thrown by slingshots
+		allow_splash_potions = false
+		#Allows bombs to be thrown by slingshots
+		allow_bombs = false
+		#Allows fire charges to be thrown by slingshots
+		allow_fire_charges = false
+		#Allows snowballs to be thrown by slingshots
+		allow_snowballs = false
+
+	[tools.slice_map]
+		enabled = true
+		#Multiplier that will be applied by slice maps to lower their range compared to normal maps
+		#Range: 0.0 ~ 1.0
+		range_multiplier = 0.25
 
 #General settings
 [general]
@@ -527,6 +542,8 @@
 		#Miminum search radius for quill. Used to incrase the radius of vanilla searches. For reference buried treasures are at 50 and locate is at 100 chunks
 		#Range: 10 ~ 600
 		min_search_radius = 75
+		#Makes blocks tagged as 'tinted_on_map' use their tint color. This allows for accurate biome colors for water and grass as well as other custom block that use any tint
+		tinted_blocks_on_maps = true
 
 	[tweaks.ceiling_banners]
 		#Allow banners to be placed on ceilings

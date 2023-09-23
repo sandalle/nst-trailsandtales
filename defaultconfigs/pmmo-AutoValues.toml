@@ -44,17 +44,13 @@
 		"JUMP Xp Award Values Generate" = true
 		"SPRINT_JUMP Xp Award Values Generate" = true
 		"CROUCH_JUMP Xp Award Values Generate" = true
-		"WORLD_CONNECT Xp Award Values Generate" = true
-		"WORLD_DISCONNECT Xp Award Values Generate" = true
 		"HIT_BLOCK Xp Award Values Generate" = true
 		"ACTIVATE_BLOCK Xp Award Values Generate" = true
 		"ACTIVATE_ITEM Xp Award Values Generate" = true
 		"ENTITY Xp Award Values Generate" = true
-		"RESPAWN Xp Award Values Generate" = true
 		"RIDING Xp Award Values Generate" = true
 		"SHIELD_BLOCK Xp Award Values Generate" = true
 		"SKILL_UP Xp Award Values Generate" = true
-		"SLEEP Xp Award Values Generate" = true
 		"SPRINTING Xp Award Values Generate" = true
 		"SUBMERGED Xp Award Values Generate" = true
 		"SWIMMING Xp Award Values Generate" = true

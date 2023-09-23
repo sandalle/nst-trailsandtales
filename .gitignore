@@ -15,4 +15,5 @@ config/durabilitytooltip-common.toml
 config/guiclock.json5
 config/guicompass.json5
 config/rootsclassic-client.toml
+config/trashslot-common.toml
 defaultconfigs/*.bak

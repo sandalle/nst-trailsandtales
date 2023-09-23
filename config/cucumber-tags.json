@@ -23,7 +23,7 @@
   "forge:ingots/bronze": "alltheores:bronze_ingot",
   "forge:ingots/mithril": "null",
   "forge:dusts/saltpeter": "null",
-  "forge:ingots/graphite": "null",
+  "forge:ingots/graphite": "bigreactors:graphite_ingot",
   "forge:ingots/platinum": "alltheores:platinum_ingot",
   "forge:silicon": "enderio:silicon",
   "forge:gems/peridot": "alltheores:peridot"
