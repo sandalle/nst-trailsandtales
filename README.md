@@ -114,7 +114,6 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 * [Neat](https://www.curseforge.com/minecraft/mc-mods/neat)
 * [Overflowing Bars](https://www.curseforge.com/minecraft/mc-mods/overflowing-bars)
 * [Polymorph](https://www.curseforge.com/minecraft/mc-mods/polymorph)
-* [Seamless](https://www.curseforge.com/minecraft/mc-mods/seamless)
 * [Server Tab Info](https://www.curseforge.com/minecraft/mc-mods/server-tab-info)
 * [ServerCore](https://www.curseforge.com/minecraft/mc-mods/servercore)
 * [Trample Stopper](https://www.curseforge.com/minecraft/mc-mods/trample-stopper)
@@ -177,6 +176,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 * [Macaw's Roofs](https://www.curseforge.com/minecraft/mc-mods/macaws-roofs)
   - [Macaw's Roofs - Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/macaws-roofs-biomes-o-plenty)
 * [Macaw's Trapdoors](https://www.curseforge.com/minecraft/mc-mods/macaws-trapdoors)
+* [Macaw's Windows](https://www.curseforge.com/minecraft/mc-mods/macaws-windows)
 * [MrCrayfish's Furniture Mod](https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod)
 * [Pedestals](https://www.curseforge.com/minecraft/mc-mods/pedestals)
 * [Re-chiseled](https://www.curseforge.com/minecraft/mc-mods/rechiseled)
@@ -210,8 +210,8 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 * [Mystical Agriculture](https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture)
   - [Mystical Agradditions](https://www.curseforge.com/minecraft/mc-mods/mystical-agradditions)
 * [Occultism](https://www.curseforge.com/minecraft/mc-mods/occultism)
+* [Reactive Alchemy](https://www.curseforge.com/minecraft/mc-mods/reactive)
 * [Reliquary Reincarnations](https://www.curseforge.com/minecraft/mc-mods/reliquary-v1-3)
-* [Roots Classic](https://www.curseforge.com/minecraft/mc-mods/roots-classic)
 * [Scriptor Magicae](https://www.curseforge.com/minecraft/mc-mods/scriptor-magicae)
 * [Theurgy](https://www.curseforge.com/minecraft/mc-mods/theurgy)
 * [Vampirism](https://www.curseforge.com/minecraft/mc-mods/vampirism-become-a-vampire)
@@ -221,9 +221,10 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 * [CC: Tweaked](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked)
 * [Create](https://www.curseforge.com/minecraft/mc-mods/create)
 * [Ender IO](https://www.curseforge.com/minecraft/mc-mods/ender-io) - May remove after Mekanism is added. Like this mod too, though.
+* [Extreme Reactors](https://www.curseforge.com/minecraft/mc-mods/extreme-reactors) - For power generation, at least until Mekanism is available
 * [Item Collectors](https://www.curseforge.com/minecraft/mc-mods/item-collectors)
 * [OpenBlocks Elevator](https://www.curseforge.com/minecraft/mc-mods/openblocks-elevator)
-* [Refined Storage](https://legacy.curseforge.com/minecraft/mc-mods/refined-storage) - Will replace Applied Energistics 2 with this if it still has the stupid in-world crystal growth requirement
+* [Refined Storage](https://legacy.curseforge.com/minecraft/mc-mods/refined-storage)
   - [Extra Disks](https://www.curseforge.com/minecraft/mc-mods/extra-disks)
   - [ExtraStorage](https://www.curseforge.com/minecraft/mc-mods/extrastorage)
   - [Refined Storage Addons](https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons)
@@ -232,7 +233,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
   - [RFTools Control](https://www.curseforge.com/minecraft/mc-mods/rftools-control)
   - [RFTools Dimensions](https://www.curseforge.com/minecraft/mc-mods/rftools-dimensions)
   - [RFTools Power](https://www.curseforge.com/minecraft/mc-mods/rftools-power)
-  - [RFTools Storage](https://www.curseforge.com/minecraft/mc-mods/rftools-storage) - May remove as we have Applied Energistics 2 for storage
+  - [RFTools Storage](https://www.curseforge.com/minecraft/mc-mods/rftools-storage) - May remove as we have Refined Storage for storage
   - [RFTools Utility](https://www.curseforge.com/minecraft/mc-mods/rftools-utility)
 * [Ultimate Car Mod](https://www.curseforge.com/minecraft/mc-mods/ultimate-car-mod)
 * [Ultimate Plane Mod](https://www.curseforge.com/minecraft/mc-mods/ultimate-plane-mod)
@@ -301,6 +302,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 * [TerraBlender](https://www.curseforge.com/minecraft/mc-mods/terrablender)
 * [Trenzalore](https://www.curseforge.com/minecraft/mc-mods/trenzalore)
 * [U Team Core](https://www.curseforge.com/minecraft/mc-mods/u-team-core)
+* [ZeroCore 2](https://www.curseforge.com/minecraft/mc-mods/zerocore)
 
 
 ## Mods added, but disabled until bugs fixed
@@ -315,6 +317,8 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 * [Rubidium](https://www.curseforge.com/minecraft/mc-mods/rubidium)
   - Oculus now requires Rubidium to be updated, but updated Rubidium crashes on load.
   - [Magnesium/Rubidium Extras](https://www.curseforge.com/minecraft/mc-mods/magnesium-extras)
+* [Roots Classic](https://www.curseforge.com/minecraft/mc-mods/roots-classic)
+  - Roots needs Forge 47.1.0 to 47.1.3, but Corail Tombstone needs 47.1.12+
 
 
 ### Mods to be disabled on dedicated servers
@@ -322,6 +326,8 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
   - https://github.com/cominixo/BetterF3/issues/63
 * [Modern UI](https://www.curseforge.com/minecraft/mc-mods/modern-ui)
   - https://github.com/BloCamLimb/ModernUI/issues/155
+* [Seamless](https://www.curseforge.com/minecraft/mc-mods/seamless)
+  - https://github.com/TeamDiopside/Seamless/issues/9
 
 ## Mods to be added
 Once these mods are updated for 1.20.1 they'll be added
