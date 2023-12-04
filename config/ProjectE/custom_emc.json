@@ -1,4 +1,116 @@
 {
-  "entries": [],
-  "__comment": "Use the in-game commands to edit this file"
+  "entries": [
+    {
+      "item": "aquaculture:gar",
+      "emc": 64
+    },
+    {
+      "item": "botania:livingrock",
+      "emc": 1
+    },
+    {
+      "item": "alltheores:zinc_ingot",
+      "emc": 128
+    },
+    {
+      "item": "car:canola_seeds",
+      "emc": 16
+    },
+    {
+      "item": "mysticalagriculture:soulstone_cobble",
+      "emc": 1
+    },
+    {
+      "item": "mysticalagriculture:soulium_dust",
+      "emc": 256
+    },
+    {
+      "item": "pamhc2crops:arrowrootseeditem",
+      "emc": 16
+    },
+    {
+      "item": "mysticalagriculture:inferium_essence",
+      "emc": 32
+    },
+    {
+      "item": "mysticalagriculture:prosperity_shard",
+      "emc": 32
+    },
+    {
+      "item": "ars_nouveau:source_berry",
+      "emc": 16
+    },
+    {
+      "item": "electrodynamics:raworefluorite",
+      "emc": 576
+    },
+    {
+      "item": "electrodynamics:dustniter",
+      "emc": 192
+    },
+    {
+      "item": "minecraft:stone_slab",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:glass_pane",
+      "emc": 1
+    },
+    {
+      "item": "biomesoplenty:bramble",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:dead_grass",
+      "emc": 1
+    },
+    {
+      "item": "electrodynamics:dustsulfur",
+      "emc": 16
+    },
+    {
+      "item": "ars_nouveau:magebloom_fiber",
+      "emc": 2052
+    },
+    {
+      "item": "ars_nouveau:magebloom_crop",
+      "emc": 8208
+    },
+    {
+      "item": "ars_nouveau:source_gem",
+      "emc": 2048
+    },
+    {
+      "item": "minecolonies:compost",
+      "emc": 48
+    },
+    {
+      "item": "minecraft:stone_brick_slab",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:cobblestone_slab",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:mossy_cobblestone_slab",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:smooth_stone_slab",
+      "emc": 1
+    },
+    {
+      "item": "mekanism:bio_fuel",
+      "emc": 4
+    },
+    {
+      "item": "absentbydesign:slab_bricks_cracked",
+      "emc": 1
+    },
+    {
+      "item": "mekanism:substrate",
+      "emc": 16
+    }
+  ]
 }
