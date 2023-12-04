@@ -10,9 +10,6 @@ upload_max_size = 524288
 #Set how many files a computer can have open at the same time. Set to 0 for unlimited.
 #Range: > 0
 maximum_open_files = 128
-#Set this to true to disable Lua 5.1 functions that will be removed in a future
-#update. Useful for ensuring forward compatibility of your programs now.
-disable_lua51_features = false
 #A comma separated list of default system settings to set on new computers.
 #Example: "shell.autocomplete=false,lua.autocomplete=false,edit.autocomplete=false"
 #will disable all autocompletion.
@@ -114,23 +111,28 @@ disabled_generic_methods = []
 	#   receive in one websocket packet.
 	# - "use_proxy" (optional): Enable use of the HTTP/SOCKS proxy if it is configured.
 	[[http.rules]]
+		#The magic "$private" host matches all private address ranges, such as localhost and 192.168.0.0/16.
+		#This rule prevents computers accessing internal services, and is strongly recommended.
 		host = "$private"
+		#Deny all requests to private IP addresses.
 		action = "deny"
 
 	[[http.rules]]
-		#The maximum size (in bytes) that a computer can send or receive in one websocket packet.
-		max_websocket_message = 131072
+		#The wildcard "*" rule matches all remaining hosts.
 		host = "*"
-		#The maximum size (in bytes) that a computer can upload in a single request. This
-		#includes headers and POST text.
-		max_upload = 4194304
+		#Allow all non-denied hosts.
 		action = "allow"
-		#Enable use of the HTTP/SOCKS proxy if it is configured.
-		use_proxy = false
 		#The maximum size (in bytes) that a computer can download in a single request.
 		#Note that responses may receive more data than allowed, but this data will not
 		#be returned to the client.
 		max_download = 16777216
+		#The maximum size (in bytes) that a computer can upload in a single request. This
+		#includes headers and POST text.
+		max_upload = 4194304
+		#The maximum size (in bytes) that a computer can send or receive in one websocket packet.
+		max_websocket_message = 131072
+		#Enable use of the HTTP/SOCKS proxy if it is configured.
+		use_proxy = false
 
 #Various options relating to peripherals.
 [peripheral]

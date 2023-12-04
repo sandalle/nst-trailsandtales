@@ -5,7 +5,10 @@
 # Add custom program arguments {such as nogui} to this file in the next line before the "$@" or
 #  pass them to this script directly
 
+# Some terminals try to set this which then breaks Minecraft server
+unset DISPLAY
+
 [[ -f /etc/profile.d/java.sh ]] && . /etc/profile.d/java.sh
 SERVER_DIR="$(pwd)"
-FORGE_VERSION='1.20.1-47.1.3'
+FORGE_VERSION='1.20.1-47.1.47'
 java @user_jvm_args.txt @libraries/net/minecraftforge/forge/${FORGE_VERSION}/unix_args.txt "$@"

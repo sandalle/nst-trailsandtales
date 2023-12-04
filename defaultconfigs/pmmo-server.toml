@@ -8,6 +8,11 @@
 	"Salvage Block" = "minecraft:smithing_table"
 	#if false, all pmmo loot conditions will be turned off
 	"Treasure Enabled" = true
+	#If false, pmmo will not track if a potion was previously brewed.
+	#this helps with stacking potions from other mods, but 
+	#does not prevent users from pick-placing potions in the
+	#brewing stand for free XP. Toggle at your discretion.
+	brewing_tracked = true
 
 #Settings related level gain
 [Levels]
@@ -74,20 +79,20 @@
 
 #Should requirements apply for the applicable action type
 [Requirements]
-	"WEAR Req Enabled" = false
-	"USE_ENCHANTMENT Req Enabled" = false
-	"TOOL Req Enabled" = false
-	"WEAPON Req Enabled" = false
-	"USE Req Enabled" = false
-	"PLACE Req Enabled" = false
-	"BREAK Req Enabled" = false
-	"KILL Req Enabled" = false
-	"TRAVEL Req Enabled" = false
-	"RIDE Req Enabled" = false
-	"TAME Req Enabled" = false
-	"BREED Req Enabled" = false
-	"INTERACT Req Enabled" = false
-	"ENTITY_INTERACT Req Enabled" = false
+	"WEAR Req Enabled" = true
+	"USE_ENCHANTMENT Req Enabled" = true
+	"TOOL Req Enabled" = true
+	"WEAPON Req Enabled" = true
+	"USE Req Enabled" = true
+	"PLACE Req Enabled" = true
+	"BREAK Req Enabled" = true
+	"KILL Req Enabled" = true
+	"TRAVEL Req Enabled" = true
+	"RIDE Req Enabled" = true
+	"TAME Req Enabled" = true
+	"BREED Req Enabled" = true
+	"INTERACT Req Enabled" = true
+	"ENTITY_INTERACT Req Enabled" = true
 
 #All settings related to the gain of experience
 [XP_Gains]
@@ -99,6 +104,39 @@
 
 	#Settings related to certain default event XP awards.
 	[XP_Gains.Event_XP_Specifics]
+
+		[XP_Gains.Event_XP_Specifics.Damage]
+
+			#damage dealt and received is defined by the damage type
+			#or damage type tag preceding it.  xp is awarded based on
+			#the value below multiplied by the damage applied.
+			[XP_Gains.Event_XP_Specifics.Damage.DEAL_DAMAGE]
+
+				[XP_Gains.Event_XP_Specifics.Damage.DEAL_DAMAGE."minecraft:generic_kill"]
+					combat = 1
+
+				[XP_Gains.Event_XP_Specifics.Damage.DEAL_DAMAGE."#minecraft:is_projectile"]
+					archery = 1
+
+				[XP_Gains.Event_XP_Specifics.Damage.DEAL_DAMAGE."minecraft:player_attack"]
+					combat = 1
+
+			[XP_Gains.Event_XP_Specifics.Damage.RECEIVE_DAMAGE]
+
+				[XP_Gains.Event_XP_Specifics.Damage.RECEIVE_DAMAGE."minecraft:generic_kill"]
+					endurance = 1
+
+				[XP_Gains.Event_XP_Specifics.Damage.RECEIVE_DAMAGE."#pmmo:magic"]
+					magic = 15
+
+				[XP_Gains.Event_XP_Specifics.Damage.RECEIVE_DAMAGE."#pmmo:environment"]
+					endurance = 10
+
+				[XP_Gains.Event_XP_Specifics.Damage.RECEIVE_DAMAGE."#minecraft:is_projectile"]
+					endurance = 15
+
+				[XP_Gains.Event_XP_Specifics.Damage.RECEIVE_DAMAGE."#pmmo:impact"]
+					endurance = 15
 
 		[XP_Gains.Event_XP_Specifics.Jumps]
 
@@ -117,6 +155,12 @@
 				swimming = 1.0
 
 			[XP_Gains.Event_XP_Specifics.Player_Actions."HEALTH_CHANGE Skills and Ratios"]
+				endurance = 0.0
+
+			[XP_Gains.Event_XP_Specifics.Player_Actions."HEALTH_INCREASE Skills and Ratios"]
+				endurance = 1.0
+
+			[XP_Gains.Event_XP_Specifics.Player_Actions."HEALTH_DECREASE Skills and Ratios"]
 				endurance = 1.0
 
 			[XP_Gains.Event_XP_Specifics.Player_Actions."SPRINTING Skills and Ratios"]
@@ -136,39 +180,6 @@
 
 			[XP_Gains.Event_XP_Specifics.Player_Actions."SWIM_SPRINTING Skills and Ratios"]
 				swimming = 200.0
-
-		[XP_Gains.Event_XP_Specifics.Damage]
-
-			#damage dealt and received is defined by the damage type
-			#or damage type tag preceding it.  xp is awarded based on
-			#the value below multiplied by the damage applied.
-			[XP_Gains.Event_XP_Specifics.Damage.DEAL_DAMAGE]
-
-				[XP_Gains.Event_XP_Specifics.Damage.DEAL_DAMAGE."#minecraft:is_projectile"]
-					archery = 1
-
-				[XP_Gains.Event_XP_Specifics.Damage.DEAL_DAMAGE."minecraft:generic_kill"]
-					combat = 1
-
-				[XP_Gains.Event_XP_Specifics.Damage.DEAL_DAMAGE."minecraft:player_attack"]
-					combat = 1
-
-			[XP_Gains.Event_XP_Specifics.Damage.RECEIVE_DAMAGE]
-
-				[XP_Gains.Event_XP_Specifics.Damage.RECEIVE_DAMAGE."#pmmo:environment"]
-					endurance = 10
-
-				[XP_Gains.Event_XP_Specifics.Damage.RECEIVE_DAMAGE."#pmmo:magic"]
-					magic = 15
-
-				[XP_Gains.Event_XP_Specifics.Damage.RECEIVE_DAMAGE."minecraft:generic_kill"]
-					endurance = 1
-
-				[XP_Gains.Event_XP_Specifics.Damage.RECEIVE_DAMAGE."#pmmo:impact"]
-					endurance = 15
-
-				[XP_Gains.Event_XP_Specifics.Damage.RECEIVE_DAMAGE."#minecraft:is_projectile"]
-					endurance = 15
 
 #All settings governing party behavior
 [Party]
@@ -190,6 +201,9 @@
 	#what is the minimum level for scaling to kick in
 	#Range: > 0
 	"Base Level" = 0
+	#a multiplier on top of final scaling values that
+	#applies only to entities in the forge:bosses tag.
+	boss_scaling = 1.1
 
 	#How should mob attributes be calculated with respect to the player's level.
 	[Mob_Scaling.Formula]
@@ -225,14 +239,14 @@
 
 			[Mob_Scaling.Scaling_Settings."Mob Scaling IDs and Ratios"."minecraft:generic"]
 
-				[Mob_Scaling.Scaling_Settings."Mob Scaling IDs and Ratios"."minecraft:generic".movement_speed]
-					combat = 1.0E-5
-
-				[Mob_Scaling.Scaling_Settings."Mob Scaling IDs and Ratios"."minecraft:generic".attack_damage]
+				[Mob_Scaling.Scaling_Settings."Mob Scaling IDs and Ratios"."minecraft:generic".max_health]
 					combat = 0.001
 
-				[Mob_Scaling.Scaling_Settings."Mob Scaling IDs and Ratios"."minecraft:generic".max_health]
-					combat = 0.01
+				[Mob_Scaling.Scaling_Settings."Mob Scaling IDs and Ratios"."minecraft:generic".attack_damage]
+					combat = 1.0E-4
+
+				[Mob_Scaling.Scaling_Settings."Mob Scaling IDs and Ratios"."minecraft:generic".movement_speed]
+					combat = 1.0E-6
 
 #Settings related to the Vein Miner
 [Vein_Miner]

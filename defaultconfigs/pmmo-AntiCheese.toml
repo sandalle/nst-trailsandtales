@@ -16,16 +16,7 @@
 	#types of xp.
 	[AntiCheese.AFK]
 
-		[AntiCheese.AFK.SWIM_SPRINTING]
-			tolerance_flat = 0
-			reduction = 0.1
-			cooloff_amount = 1
-			tolerance_percent = 0.0
-			source = []
-			min_time_to_apply = 200
-			retention_duration = 0
-
-		[AntiCheese.AFK.SUBMERGED]
+		[AntiCheese.AFK.SURFACING]
 			tolerance_flat = 0
 			reduction = 0.1
 			cooloff_amount = 1
@@ -43,7 +34,16 @@
 			min_time_to_apply = 200
 			retention_duration = 0
 
-		[AntiCheese.AFK.SURFACING]
+		[AntiCheese.AFK.SWIM_SPRINTING]
+			tolerance_flat = 0
+			reduction = 0.1
+			cooloff_amount = 1
+			tolerance_percent = 0.0
+			source = []
+			min_time_to_apply = 200
+			retention_duration = 0
+
+		[AntiCheese.AFK.SUBMERGED]
 			tolerance_flat = 0
 			reduction = 0.1
 			cooloff_amount = 1

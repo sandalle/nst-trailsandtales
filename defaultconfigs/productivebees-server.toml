@@ -37,7 +37,7 @@
 	#Range: > 1
 	generatorHoneyUse = 2
 	#A priority list of Mod IDs that results of comb output should stem from, aka which mod you want the copper to come from.
-	preferredTagSource = ["minecraft", "productivebees", "alltheores", "ato", "thermal", "tconstruct", "create", "immersiveengineering", "mekanism", "silents_mechanisms"]
+	preferredTagSource = ["minecraft", "productivebees", "alltheores", "ato", "thermal", "tconstruct", "create", "immersiveengineering", "mekanism", "enderio", "silents_mechanisms"]
 	#How many bees can fit in a bee bomb. Default is 10
 	#Range: 1 ~ 50
 	numberOfBeesPerBomb = 10
@@ -57,8 +57,6 @@
 [Bees]
 	#Allow for bee simulation in hives. This will stop bees from exiting the hive and instead simulate a trip to flower blocks saving on performance.
 	allowBeeSimulation = true
-	#Spawn skeletal and zombie bees as night?
-	spawnUndeadBees = true
 	#Range: 0.0 ~ 1.0
 	spawnUndeadBeesChance = 0.05
 	#Range: 0.0 ~ 1.0
@@ -79,6 +77,8 @@
 	kamikazBeeChance = 0.3
 	#Disable the wander goal in bees to increase performance
 	disableWanderGoal = false
+	#Allow resin bees to encase mobs in amber. With this disabled it's only possible with an amber bee and it's also not as fun.
+	enableResinBeeEncasing = true
 
 ["Bee attributes"]
 	#Number of ticks between effects on nearby entities
@@ -156,16 +156,7 @@
 	timeBonus = 0.2
 	#Multiplier per productivity alpha upgrade installed in the hive.
 	#Range: 1.0 ~ 2.147483647E9
-	productivityMultiplier = 1.4
-	#Chance for a bee to produce an offspring after a hive visit.
-	#Range: 0.0 ~ 1.0
-	breedingChance = 0.05
-	#How many bees can be around a hive before a babee upgrade stops working.
-	#Range: > 0
-	breedingMaxNearbyEntities = 10
-	#Chance for a gene sample to be taken from a bee after a hive visit.
-	#Range: 0.0 ~ 1.0
-	samplerChance = 0.05
+	productivityMultiplier = 1.2
 	#Multiplier per productivity beta upgrade installed in the hive.
 	#Range: 1.0 ~ 2.147483647E9
 	productivityMultiplier2 = 1.5
@@ -175,4 +166,13 @@
 	#Multiplier per productivity omega upgrade installed in the hive.
 	#Range: 1.0 ~ 2.147483647E9
 	productivityMultiplier4 = 2.6
+	#Chance for a bee to produce an offspring after a hive visit.
+	#Range: 0.0 ~ 1.0
+	breedingChance = 0.05
+	#How many bees can be around a hive before a babee upgrade stops working.
+	#Range: > 0
+	breedingMaxNearbyEntities = 10
+	#Chance for a gene sample to be taken from a bee after a hive visit.
+	#Range: 0.0 ~ 1.0
+	samplerChance = 0.05
 

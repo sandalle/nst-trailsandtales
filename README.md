@@ -20,7 +20,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 
 
 # Forge
-[1.20.1-47.1.3](http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.20.1.html)
+[1.20.1-47.1.47](http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.20.1.html)
 
 
 # Texture Packs
@@ -192,6 +192,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 * [Awesome Dungeon The End Edition](https://www.curseforge.com/minecraft/mc-mods/awesome-dungeon-the-end-forge)
 * [Better Villages](https://www.curseforge.com/minecraft/mc-mods/better-village-forge)
 * [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)
+* [Botania: Garden of Glass](https://www.curseforge.com/minecraft/mc-mods/botania-garden-of-glass)
 * [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts)
 * [Elementary Nether and End Ores](https://www.curseforge.com/minecraft/mc-mods/elementary-ores)
 * [Explorer's Compass](https://www.curseforge.com/minecraft/mc-mods/explorers-compass)
@@ -205,11 +206,14 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 
 ## Magic Mods
 * [Ars Nouveau](https://www.curseforge.com/minecraft/mc-mods/ars-nouveau)
+* [Botania](https://www.curseforge.com/minecraft/mc-mods/botania)
 * [Dragon Mounts: Legacy](https://www.curseforge.com/minecraft/mc-mods/dragon-mounts-legacy)
 * [EvilCraft](https://www.curseforge.com/minecraft/mc-mods/evilcraft)
 * [Mystical Agriculture](https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture)
   - [Mystical Agradditions](https://www.curseforge.com/minecraft/mc-mods/mystical-agradditions)
 * [Occultism](https://www.curseforge.com/minecraft/mc-mods/occultism)
+* [ProjectE](https://www.curseforge.com/minecraft/mc-mods/projecte)
+  - [Project Expansion](https://www.curseforge.com/minecraft/mc-mods/project-expansion)
 * [Reactive Alchemy](https://www.curseforge.com/minecraft/mc-mods/reactive)
 * [Reliquary Reincarnations](https://www.curseforge.com/minecraft/mc-mods/reliquary-v1-3)
 * [Scriptor Magicae](https://www.curseforge.com/minecraft/mc-mods/scriptor-magicae)
@@ -220,9 +224,21 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 ## Tech Mods
 * [CC: Tweaked](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked)
 * [Create](https://www.curseforge.com/minecraft/mc-mods/create)
+* [Electrodynamics](https://www.curseforge.com/minecraft/mc-mods/electrodynamics)
+  - [Ballistix](https://www.curseforge.com/minecraft/mc-mods/ballistix)
+  - [Blastcraft](https://www.curseforge.com/minecraft/mc-mods/blast-craft)
+  - [Modular Force Fields Systems](https://legacy.curseforge.com/minecraft/mc-mods/modular-forcefields)
+  - [Nuclear Science](https://legacy.curseforge.com/minecraft/mc-mods/nuclear-science)
 * [Ender IO](https://www.curseforge.com/minecraft/mc-mods/ender-io) - May remove after Mekanism is added. Like this mod too, though.
-* [Extreme Reactors](https://www.curseforge.com/minecraft/mc-mods/extreme-reactors) - For power generation, at least until Mekanism is available
+* [Industrial Foregoing](https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing)
 * [Item Collectors](https://www.curseforge.com/minecraft/mc-mods/item-collectors)
+* [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism) - Will replace XNet
+  - [Mekanism Additions](https://www.curseforge.com/minecraft/mc-mods/mekanism-additions)
+  - [Mekanism Generators](https://www.curseforge.com/minecraft/mc-mods/mekanism-generators)
+  - [Mekanism Tools](https://www.curseforge.com/minecraft/mc-mods/mekanism-tools)
+  - [Just Enough Mekanism Multiblocks](https://www.curseforge.com/minecraft/mc-mods/just-enough-mekanism-multiblocks)
+  - [Mekanism: Ad Astra Ores](https://www.curseforge.com/minecraft/mc-mods/mekanism-ad-astra-ores)
+  - [More Mekanism Processing](https://www.curseforge.com/minecraft/mc-mods/more-mekanism-processing)
 * [OpenBlocks Elevator](https://www.curseforge.com/minecraft/mc-mods/openblocks-elevator)
 * [Refined Storage](https://legacy.curseforge.com/minecraft/mc-mods/refined-storage)
   - [Extra Disks](https://www.curseforge.com/minecraft/mc-mods/extra-disks)
@@ -302,23 +318,15 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 * [TerraBlender](https://www.curseforge.com/minecraft/mc-mods/terrablender)
 * [Trenzalore](https://www.curseforge.com/minecraft/mc-mods/trenzalore)
 * [U Team Core](https://www.curseforge.com/minecraft/mc-mods/u-team-core)
-* [ZeroCore 2](https://www.curseforge.com/minecraft/mc-mods/zerocore)
 
 
 ## Mods added, but disabled until bugs fixed
 * [Chunk Animator](https://www.curseforge.com/minecraft/mc-mods/chunk-animator) - Breaks with Rubidium mod
   - https://github.com/Harleyoc1/ChunkAnimator/issues/24
-* [Guidebook](https://www.curseforge.com/minecraft/mc-mods/guidebook)
-  - TBD, breaks EnderIO
 * [MineColonies](https://www.curseforge.com/minecraft/mc-mods/minecolonies) - Bug is in Corail Tombstone, but we want that more
   - https://github.com/Corail31/tombstone_lite/issues/160
-* [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus)
-  - https://github.com/Asek3/Oculus/issues/86
-* [Rubidium](https://www.curseforge.com/minecraft/mc-mods/rubidium)
-  - Oculus now requires Rubidium to be updated, but updated Rubidium crashes on load.
-  - [Magnesium/Rubidium Extras](https://www.curseforge.com/minecraft/mc-mods/magnesium-extras)
-* [Roots Classic](https://www.curseforge.com/minecraft/mc-mods/roots-classic)
-  - Roots needs Forge 47.1.0 to 47.1.3, but Corail Tombstone needs 47.1.12+
+* [ProjectE Integration](https://www.curseforge.com/minecraft/mc-mods/projecte-integration)
+  - https://github.com/TagnumElite/ProjectE-Integration/issues/102
 
 
 ### Mods to be disabled on dedicated servers
@@ -326,6 +334,8 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
   - https://github.com/cominixo/BetterF3/issues/63
 * [Modern UI](https://www.curseforge.com/minecraft/mc-mods/modern-ui)
   - https://github.com/BloCamLimb/ModernUI/issues/155
+* [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus)
+  - https://github.com/Asek3/Oculus/issues/86
 * [Seamless](https://www.curseforge.com/minecraft/mc-mods/seamless)
   - https://github.com/TeamDiopside/Seamless/issues/9
 
@@ -338,17 +348,6 @@ Once these mods are updated for 1.20.1 they'll be added
   - Will replace this with these two tried-and-true ones if there are issues
   - [EnderChests](https://legacy.curseforge.com/minecraft/mc-mods/enderchests)
   - [EnderTanks](https://legacy.curseforge.com/minecraft/mc-mods/endertanks)
-* [Electrodynamics](https://www.curseforge.com/minecraft/mc-mods/electrodynamics)
-  - [Ballistix](https://www.curseforge.com/minecraft/mc-mods/ballistix)
-  - [Blastcraft](https://www.curseforge.com/minecraft/mc-mods/blast-craft)
-  - [Modular Force Fields Systems](https://legacy.curseforge.com/minecraft/mc-mods/modular-forcefields)
-  - [Nuclear Science](https://legacy.curseforge.com/minecraft/mc-mods/nuclear-science)
-* [Industrial Foregoing](https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing)
-* [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism) - Will replace XNet
-  - [Mekanism Additions](https://www.curseforge.com/minecraft/mc-mods/mekanism-additions)
-  - [Mekanism Generators](https://www.curseforge.com/minecraft/mc-mods/mekanism-generators)
-  - [Mekanism Tools](https://www.curseforge.com/minecraft/mc-mods/mekanism-tools)
-
 ### Maybe add
 Might add these.
 * [Experience Obelisk](https://www.curseforge.com/minecraft/mc-mods/experience-obelisk) I miss this (and other items) from EnderIO

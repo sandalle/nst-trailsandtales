@@ -27,7 +27,7 @@
 	   More info here
 	   (http://www.cronmaker.com)
 	*/
-	"backup_cron": "0 0 * * * ?",
+	"backup_cron": "0 */30 * * * ?",
 	// Time between manual backups using the command
 	"manual_backups_time": 0,
 	// Only run a backup if a player has been online since the last backup
@@ -65,5 +65,7 @@
 	   *path/ends/with.txt             Any files who's path ends with
 	   *path/contains*                 Any files who's path contains
 	*/
-	"excluded": []
+	"excluded": [],
+	// The dimension used when creating backup preview image, specify "all" to enable automatic detection of primary dimension (can be very slow)
+	"preview_dimension": "minecraft:overworld"
 }

@@ -7,20 +7,20 @@
 
 	#These settings turn auto-values on/off for the specific requirement type.  These are global settings
 	[Auto_Values.Req_Toggles]
-		"WEAR Req Values Generate" = false
-		"USE_ENCHANTMENT Req Values Generate" = false
-		"TOOL Req Values Generate" = false
-		"WEAPON Req Values Generate" = false
-		"USE Req Values Generate" = false
-		"PLACE Req Values Generate" = false
-		"BREAK Req Values Generate" = false
-		"KILL Req Values Generate" = false
-		"TRAVEL Req Values Generate" = false
-		"RIDE Req Values Generate" = false
-		"TAME Req Values Generate" = false
-		"BREED Req Values Generate" = false
-		"INTERACT Req Values Generate" = false
-		"ENTITY_INTERACT Req Values Generate" = false
+		"WEAR Req Values Generate" = true
+		"USE_ENCHANTMENT Req Values Generate" = true
+		"TOOL Req Values Generate" = true
+		"WEAPON Req Values Generate" = true
+		"USE Req Values Generate" = true
+		"PLACE Req Values Generate" = true
+		"BREAK Req Values Generate" = true
+		"KILL Req Values Generate" = true
+		"TRAVEL Req Values Generate" = true
+		"RIDE Req Values Generate" = true
+		"TAME Req Values Generate" = true
+		"BREED Req Values Generate" = true
+		"INTERACT Req Values Generate" = true
+		"ENTITY_INTERACT Req Values Generate" = true
 
 	#These settings turn auto-values xp awards on/off for the specific event type.  These are global settings
 	[Auto_Values.XpGain_Toggles]
@@ -33,7 +33,9 @@
 		"BREW Xp Award Values Generate" = true
 		"CONSUME Xp Award Values Generate" = true
 		"CRAFT Xp Award Values Generate" = true
+		"CROUCH Xp Award Values Generate" = true
 		"RECEIVE_DAMAGE Xp Award Values Generate" = true
+		"DEAL_DAMAGE Xp Award Values Generate" = true
 		"DEATH Xp Award Values Generate" = true
 		"ENCHANT Xp Award Values Generate" = true
 		"EFFECT Xp Award Values Generate" = true
@@ -41,6 +43,8 @@
 		"SMELT Xp Award Values Generate" = true
 		"GROW Xp Award Values Generate" = true
 		"HEALTH_CHANGE Xp Award Values Generate" = true
+		"HEALTH_INCREASE Xp Award Values Generate" = true
+		"HEALTH_DECREASE Xp Award Values Generate" = true
 		"JUMP Xp Award Values Generate" = true
 		"SPRINT_JUMP Xp Award Values Generate" = true
 		"CROUCH_JUMP Xp Award Values Generate" = true
@@ -58,8 +62,6 @@
 		"SURFACING Xp Award Values Generate" = true
 		"SWIM_SPRINTING Xp Award Values Generate" = true
 		"TAMING Xp Award Values Generate" = true
-		"CROUCH Xp Award Values Generate" = true
-		"DEAL_DAMAGE Xp Award Values Generate" = true
 
 	#what skills and xp amount should applicable objects be granted
 	[Auto_Values.Xp_Awards]
@@ -174,17 +176,14 @@
 
 			#What effects and levels should be applied if a player does not meet an item req
 			[Auto_Values.Requirements.Items."Item Penalties"]
-				"minecraft:mining_fatigue" = 1
 				"minecraft:slowness" = 1
+				"minecraft:mining_fatigue" = 1
 				"minecraft:weakness" = 1
 
 		[Auto_Values.Requirements.BLocks]
 
 			[Auto_Values.Requirements.BLocks."BREAK Default Req"]
 				mining = 1
-
-			[Auto_Values.Requirements.BLocks."PLACE Default Req"]
-				building = 1
 
 	#Configuration tweaks specific to items.
 	#'Durability' determines how much item durability affects auto value calculations
@@ -201,69 +200,69 @@
 		"Block Hardness Modifier" = 0.65
 
 		[Auto_Values.Item_Tweaks.SWORD_Attributes]
-			Tier = 10.0
-			Damage = 1.5
-			Attack_Speed = 10.0
 			Durability = 0.01
+			Attack_Speed = 10.0
+			Damage = 1.5
+			Tier = 10.0
 			Dig_Speed = 10.0
 
 		[Auto_Values.Item_Tweaks.PICKAXE_Attributes]
-			Tier = 10.0
-			Damage = 1.5
-			Attack_Speed = 10.0
 			Durability = 0.01
+			Attack_Speed = 10.0
+			Damage = 1.5
+			Tier = 10.0
 			Dig_Speed = 10.0
 
 		[Auto_Values.Item_Tweaks.AXE_Attributes]
-			Tier = 10.0
-			Damage = 1.5
-			Attack_Speed = 10.0
 			Durability = 0.01
+			Attack_Speed = 10.0
+			Damage = 1.5
+			Tier = 10.0
 			Dig_Speed = 10.0
 
 		[Auto_Values.Item_Tweaks.SHOVEL_Attributes]
-			Tier = 10.0
-			Damage = 1.5
-			Attack_Speed = 10.0
 			Durability = 0.01
+			Attack_Speed = 10.0
+			Damage = 1.5
+			Tier = 10.0
 			Dig_Speed = 10.0
 
 		[Auto_Values.Item_Tweaks.HOE_Attributes]
-			Tier = 10.0
-			Damage = 1.5
-			Attack_Speed = 10.0
 			Durability = 0.01
+			Attack_Speed = 10.0
+			Damage = 1.5
+			Tier = 10.0
 			Dig_Speed = 10.0
 
 		[Auto_Values.Item_Tweaks.HEAD_Attributes]
-			Durability = 0.01
-			Toughness = 10.0
-			Knockback_Resistance = 10.0
 			Armor = 10.0
+			Knockback_Resistance = 10.0
+			Toughness = 10.0
+			Durability = 0.01
 
 		[Auto_Values.Item_Tweaks.CHEST_Attributes]
-			Durability = 0.01
-			Toughness = 10.0
-			Knockback_Resistance = 10.0
 			Armor = 10.0
+			Knockback_Resistance = 10.0
+			Toughness = 10.0
+			Durability = 0.01
 
 		[Auto_Values.Item_Tweaks.LEGS_Attributes]
-			Durability = 0.01
-			Toughness = 10.0
-			Knockback_Resistance = 10.0
 			Armor = 10.0
+			Knockback_Resistance = 10.0
+			Toughness = 10.0
+			Durability = 0.01
 
 		[Auto_Values.Item_Tweaks.BOOTS_Attributes]
-			Durability = 0.01
-			Toughness = 10.0
-			Knockback_Resistance = 10.0
 			Armor = 10.0
+			Knockback_Resistance = 10.0
+			Toughness = 10.0
+			Durability = 0.01
 
 		[Auto_Values.Item_Tweaks.WINGS_Attributes]
-			Durability = 0.01
-			Toughness = 10.0
-			Knockback_Resistance = 10.0
 			Armor = 10.0
+			Knockback_Resistance = 10.0
+			Toughness = 10.0
+			Durability = 0.01
 
 	#Configuration tweaks specific to entities.
 	#'Health' Determines how much entity health affects auto value calculations
@@ -272,7 +271,7 @@
 	[Auto_Values.Entity_Tweaks]
 
 		[Auto_Values.Entity_Tweaks.Entity_Attributes]
-			Move_Speed = 0.15
 			Damage = 1.5
+			Move_Speed = 0.15
 			Health = 0.5
 

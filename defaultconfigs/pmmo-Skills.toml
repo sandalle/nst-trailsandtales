@@ -50,8 +50,8 @@
 			useTotalLevels = false
 
 			[Skills.Entry.fightgroup.groupFor]
-				combat = 0.5
 				endurance = 0.3
+				combat = 0.5
 				archery = 0.2
 
 		[Skills.Entry.combat]

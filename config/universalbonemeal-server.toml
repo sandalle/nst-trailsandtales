@@ -16,6 +16,8 @@ allow_small_flowers = true
 #Allow bone meal to work on coral turning it into coral reef tree structures for farming coral blocks.
 #This does only work when inside of a warm ocean biome and requires a fair bit of open space above the coral.
 allow_corals = true
+#Allow bone meal to work on spore blossoms for dropping an additional spore blossom per bone meal used.
+allow_spore_blossom = true
 #Allow bone meal to work on sugar canes.
 allow_sugar_cane = true
 #Allow bone meal to work on mycelium blocks, spawning various types of mushrooms in the vicinity.
@@ -26,6 +28,4 @@ allow_dirt = true
 allow_cactus = true
 #Allow bone meal to work on dead bushes making them spread around.
 allow_dead_bush = true
-#Allow bone meal to work on spore blossoms for dropping an additional spore blossom per bone meal used.
-allow_spore_blossom = true
 
