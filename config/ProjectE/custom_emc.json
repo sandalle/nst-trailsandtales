@@ -1,12 +1,32 @@
 {
   "entries": [
     {
-      "item": "aquaculture:gar",
-      "emc": 64
+      "item": "minecraft:stone_brick_slab",
+      "emc": 1
     },
     {
-      "item": "botania:livingrock",
+      "item": "minecraft:cobblestone_slab",
       "emc": 1
+    },
+    {
+      "item": "minecraft:mossy_cobblestone_slab",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:smooth_stone_slab",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:stone_slab",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:glass_pane",
+      "emc": 1
+    },
+    {
+      "item": "aquaculture:gar",
+      "emc": 64
     },
     {
       "item": "alltheores:zinc_ingot",
@@ -25,10 +45,6 @@
       "emc": 256
     },
     {
-      "item": "pamhc2crops:arrowrootseeditem",
-      "emc": 16
-    },
-    {
       "item": "mysticalagriculture:inferium_essence",
       "emc": 32
     },
@@ -37,8 +53,8 @@
       "emc": 32
     },
     {
-      "item": "ars_nouveau:source_berry",
-      "emc": 16
+      "item": "mysticalagriculture:dye_essence",
+      "emc": 6
     },
     {
       "item": "electrodynamics:raworefluorite",
@@ -49,12 +65,8 @@
       "emc": 192
     },
     {
-      "item": "minecraft:stone_slab",
-      "emc": 1
-    },
-    {
-      "item": "minecraft:glass_pane",
-      "emc": 1
+      "item": "electrodynamics:dustsulfur",
+      "emc": 16
     },
     {
       "item": "biomesoplenty:bramble",
@@ -63,10 +75,6 @@
     {
       "item": "biomesoplenty:dead_grass",
       "emc": 1
-    },
-    {
-      "item": "electrodynamics:dustsulfur",
-      "emc": 16
     },
     {
       "item": "ars_nouveau:magebloom_fiber",
@@ -81,36 +89,1092 @@
       "emc": 2048
     },
     {
+      "item": "ars_nouveau:magebloom",
+      "emc": 8208
+    },
+    {
+      "item": "ars_nouveau:sourceberry_bush",
+      "emc": 24
+    },
+    {
       "item": "minecolonies:compost",
       "emc": 48
-    },
-    {
-      "item": "minecraft:stone_brick_slab",
-      "emc": 1
-    },
-    {
-      "item": "minecraft:cobblestone_slab",
-      "emc": 1
-    },
-    {
-      "item": "minecraft:mossy_cobblestone_slab",
-      "emc": 1
-    },
-    {
-      "item": "minecraft:smooth_stone_slab",
-      "emc": 1
-    },
-    {
-      "item": "mekanism:bio_fuel",
-      "emc": 4
     },
     {
       "item": "absentbydesign:slab_bricks_cracked",
       "emc": 1
     },
     {
+      "item": "botania:livingrock",
+      "emc": 1
+    },
+    {
+      "item": "botania:manasteel_ingot",
+      "emc": 320
+    },
+    {
+      "item": "botania:mana_pearl",
+      "emc": 1536
+    },
+    {
+      "item": "botania:mana_diamond",
+      "emc": 12288
+    },
+    {
+      "item": "botania:terrasteel_ingot",
+      "emc": 14144
+    },
+    {
+      "item": "theurgy:sal_ammoniac_crystal",
+      "emc": 864
+    },
+    {
+      "item": "vampirism:item_garlic",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pamapple",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pamavocado",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pamcandlenut",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pamcherry",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pamchestnut",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pamgooseberry",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pamlemon",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pamnutmeg",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pamorange",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pampeach",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pampear",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pamplum",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pamwalnut",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pamspiderweb",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pamhazelnut",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pampawpaw",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pamsoursop",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pamalmond",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pamapricot",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pambanana",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pamcashew",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pamcoconut",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pamdate",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pamdragonfruit",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pamdurian",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pamfig",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pamcinnamon",
+      "emc": 32
+    },
+    {
+      "item": "pamhc2trees:pampaperbark",
+      "emc": 32
+    },
+    {
+      "item": "pamhc2trees:pamgrapefruit",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pamlime",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pammango",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pamolive",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pampapaya",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pampecan",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pampeppercorn",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pampersimmon",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pampistachio",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pampomegranate",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pamstarfruit",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pamvanillabean",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pambreadfruit",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pamguava",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pamjackfruit",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pamlychee",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pampassionfruit",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pamrambutan",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pamtamarind",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pampinenut",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:avocadoitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:candlenutitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:cherryitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:chestnutitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:gooseberryitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pammaple",
+      "emc": 32
+    },
+    {
+      "item": "pamhc2trees:lemonitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:nutmegitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pearitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:orangeitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:peachitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:plumitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:walnutitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:hazelnutitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pawpawitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:soursopitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:almonditem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:apricotitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:bananaitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:cashewitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:cinnamonitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:coconutitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:dateitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:dragonfruititem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:durianitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:figitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:grapefruititem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:limeitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:mangoitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:oliveitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:papayaitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pecanitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:peppercornitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:persimmonitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pistachioitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pomegranateitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:starfruititem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:vanillabeanitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:breadfruititem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:guavaitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:jackfruititem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:lycheeitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:passionfruititem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:rambutanitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:tamarinditem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:maplesyrupitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2trees:pinenutitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2foodcore:freshwateritem",
+      "emc": 2
+    },
+    {
+      "item": "pamhc2crops:barleyitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:ryeitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:amaranthitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:beanitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:chickpeaitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:milletitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:lentilitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:quinoaitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:riceitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:cornitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:oatsitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:cottonitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:flaxitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:kenafitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:juteitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:sisalitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:artichokeitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:asparagusitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:bellpepperitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:broccoliitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:soybeanitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:brusselsproutitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:cabbageitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:caulifloweritem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:celeryitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:chilipepperitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:cucumberitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:eggplantitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:kaleitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:lettuceitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:okraitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:peasitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:spinachitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:tomatilloitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:tomatoitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:wintersquashitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:zucchiniitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:arrowrootitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:cassavaitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:garlicitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:jicamaitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:leekitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:kohlrabiitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:onionitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:parsnipitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:peanutitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:radishitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:rhubarbitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:rutabagaitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:scallionitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:sweetpotatoitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:taroitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:turnipitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:waterchestnutitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:blackberryitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:blueberryitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:cactusfruititem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:candleberryitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:cantaloupeitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:cranberryitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:elderberryitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:grapeitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:greengrapeitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:huckleberryitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:juniperberryitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:kiwiitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:mulberryitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:pineappleitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:raspberryitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:strawberryitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:coffeebeanitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:tealeafitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:agaveitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:whitemushroomitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:gingeritem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:sesameseedsitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:spiceleafitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:mustardseedsitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:agaveseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:amaranthseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:arrowrootseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:artichokeseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:asparagusseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:barleyseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:beanseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:bellpepperseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:blackberryseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:blueberryseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:broccoliseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:brusselsproutseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:cabbageseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:cactusfruitseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:candleberryseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:cantaloupeseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:cassavaseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:cauliflowerseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:celeryseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:chickpeaseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:chilipepperseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:coffeebeanseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:cornseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:cottonseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:cranberryseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:cucumberseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:eggplantseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:elderberryseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:flaxseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:garlicseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:gingerseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:grapeseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:greengrapeseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:huckleberryseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:jicamaseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:juniperberryseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:juteseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:kaleseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:kenafseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:kiwiseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:kohlrabiseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:leekseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:lentilseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:lettuceseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:milletseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:mulberryseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:mustardseedsseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:oatsseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:okraseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:onionseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:parsnipseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:peanutseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:peasseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:pineappleseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:quinoaseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:radishseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:raspberryseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:rhubarbseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:riceseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:rutabagaseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:ryeseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:scallionseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:sesameseedsseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:sisalseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:soybeanseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:spiceleafseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:spinachseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:strawberryseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:sweetpotatoseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:taroseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:tealeafseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:tomatilloseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:tomatoseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:turnipseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:waterchestnutseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:whitemushroomseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:wintersquashseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2crops:zucchiniseeditem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2foodcore:saltitem",
+      "emc": 96
+    },
+    {
+      "item": "pamhc2crops:canolaitem",
+      "emc": 24
+    },
+    {
       "item": "mekanism:substrate",
       "emc": 16
+    },
+    {
+      "item": "mekanism:bio_fuel",
+      "emc": 4
+    },
+    {
+      "item": "mekanism:sawdust",
+      "emc": 32
+    },
+    {
+      "item": "mekanism:pellet_antimatter",
+      "emc": 4096000
+    },
+    {
+      "item": "mekanism:pellet_polonium",
+      "emc": 4096
+    },
+    {
+      "item": "mekanism:pellet_plutonium",
+      "emc": 4096
+    },
+    {
+      "item": "mekanism:dust_lithium",
+      "emc": 8192
     }
   ]
 }
