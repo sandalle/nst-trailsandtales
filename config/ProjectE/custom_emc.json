@@ -25,6 +25,10 @@
       "emc": 1
     },
     {
+      "item": "minecraft:elytra{Damage:0}",
+      "emc": 768
+    },
+    {
       "item": "aquaculture:gar",
       "emc": 64
     },
@@ -33,8 +37,88 @@
       "emc": 128
     },
     {
+      "item": "alltheores:dirty_zinc_dust",
+      "emc": 128
+    },
+    {
+      "item": "alltheores:dirty_iridium_dust",
+      "emc": 4096
+    },
+    {
+      "item": "alltheores:iridium_dust",
+      "emc": 4096
+    },
+    {
+      "item": "alltheores:enderium_dust",
+      "emc": 1920
+    },
+    {
+      "item": "alltheores:enderium_ingot",
+      "emc": 1920
+    },
+    {
+      "item": "alltheores:netherite_dust",
+      "emc": 50152
+    },
+    {
+      "item": "alltheores:iridium_ingot",
+      "emc": 4096
+    },
+    {
+      "item": "alltheores:dirty_osmium_dust",
+      "emc": 512
+    },
+    {
+      "item": "alltheores:dirty_nickel_dust",
+      "emc": 1024
+    },
+    {
+      "item": "alltheores:dirty_lead_dust",
+      "emc": 512
+    },
+    {
+      "item": "alltheores:dirty_copper_dust",
+      "emc": 128
+    },
+    {
+      "item": "alltheores:dirty_aluminum_dust",
+      "emc": 128
+    },
+    {
+      "item": "alltheores:dirty_tin_dust",
+      "emc": 256
+    },
+    {
+      "item": "alltheores:dirty_uranium_dust",
+      "emc": 4096
+    },
+    {
+      "item": "alltheores:dirty_platinum_dust",
+      "emc": 4096
+    },
+    {
+      "item": "alltheores:gold_dust",
+      "emc": 2048
+    },
+    {
+      "item": "alltheores:osmium_dust",
+      "emc": 512
+    },
+    {
+      "item": "alltheores:steel_dust",
+      "emc": 252
+    },
+    {
+      "item": "alltheores:dirty_silver_dust",
+      "emc": 512
+    },
+    {
       "item": "car:canola_seeds",
-      "emc": 16
+      "emc": 64
+    },
+    {
+      "item": "car:canola",
+      "emc": 64
     },
     {
       "item": "mysticalagriculture:soulstone_cobble",
@@ -67,6 +151,26 @@
     {
       "item": "electrodynamics:dustsulfur",
       "emc": 16
+    },
+    {
+      "item": "electrodynamics:impuredustcopper",
+      "emc": 128
+    },
+    {
+      "item": "electrodynamics:impuredusttin",
+      "emc": 256
+    },
+    {
+      "item": "electrodynamics:impuredustlead",
+      "emc": 512
+    },
+    {
+      "item": "electrodynamics:dustsilver",
+      "emc": 512
+    },
+    {
+      "item": "electrodynamics:impuredustsilver",
+      "emc": 512
     },
     {
       "item": "biomesoplenty:bramble",
@@ -1137,6 +1241,10 @@
       "emc": 24
     },
     {
+      "item": "pamhc2crops:sunchokeitem",
+      "emc": 24
+    },
+    {
       "item": "pamhc2crops:zucchiniseeditem",
       "emc": 24
     },
@@ -1175,6 +1283,138 @@
     {
       "item": "mekanism:dust_lithium",
       "emc": 8192
+    },
+    {
+      "item": "mekanism:dust_osmium",
+      "emc": 512
+    },
+    {
+      "item": "mekanism:dirty_dust_osmium",
+      "emc": 512
+    },
+    {
+      "item": "mekanism:dust_lead",
+      "emc": 512
+    },
+    {
+      "item": "mekanism:dirty_dust_lead",
+      "emc": 512
+    },
+    {
+      "item": "mekanism:dust_copper",
+      "emc": 128
+    },
+    {
+      "item": "mekanism:dirty_dust_copper",
+      "emc": 128
+    },
+    {
+      "item": "mekanism:dust_tin",
+      "emc": 256
+    },
+    {
+      "item": "mekanism:dirty_dust_tin",
+      "emc": 256
+    },
+    {
+      "item": "mekanism:dust_uranium",
+      "emc": 4096
+    },
+    {
+      "item": "mekanism:dirty_dust_uranium",
+      "emc": 4096
+    },
+    {
+      "item": "moremekanismprocessing:dirty_dust_silver",
+      "emc": 512
+    },
+    {
+      "item": "moremekanismprocessing:dust_silver",
+      "emc": 512
+    },
+    {
+      "item": "moremekanismprocessing:dirty_dust_platinum",
+      "emc": 4096
+    },
+    {
+      "item": "moremekanismprocessing:dust_platinum",
+      "emc": 4096
+    },
+    {
+      "item": "moremekanismprocessing:dirty_dust_nickel",
+      "emc": 1024
+    },
+    {
+      "item": "moremekanismprocessing:dust_nickel",
+      "emc": 1024
+    },
+    {
+      "item": "moremekanismprocessing:dirty_dust_aluminum",
+      "emc": 128
+    },
+    {
+      "item": "moremekanismprocessing:dust_aluminum",
+      "emc": 128
+    },
+    {
+      "item": "moremekanismprocessing:dirty_dust_zinc",
+      "emc": 128
+    },
+    {
+      "item": "moremekanismprocessing:dust_zinc",
+      "emc": 128
+    },
+    {
+      "item": "moremekanismprocessing:dirty_dust_iridium",
+      "emc": 4096
+    },
+    {
+      "item": "moremekanismprocessing:dust_iridium",
+      "emc": 4096
+    },
+    {
+      "item": "moremekanismprocessing:iridium_ingot",
+      "emc": 4096
+    },
+    {
+      "item": "occultism:silver_dust",
+      "emc": 512
+    },
+    {
+      "item": "supplementaries:flax",
+      "emc": 12
+    },
+    {
+      "item": "supplementaries:flax_seeds",
+      "emc": 12
+    },
+    {
+      "item": "silentgear:flax_fiber",
+      "emc": 12
+    },
+    {
+      "item": "silentgear:flax_flowers",
+      "emc": 1
+    },
+    {
+      "item": "silentgear:flax_seeds",
+      "emc": 13
+    },
+    {
+      "item": "silentgear:fluffy_seeds",
+      "emc": 5
+    },
+    {
+      "item": "silentgear:fluffy_puff",
+      "emc": 5
+    },
+    {
+      "item": "silentgear:bort",
+      "emc": 32
+    },
+    {
+      "item": "tombstone:grave_dust",
+      "emc": 384
     }
   ]
 }
