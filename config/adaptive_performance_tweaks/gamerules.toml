@@ -10,7 +10,7 @@
 	entityCrammingEnabled = true
 	#Defines the min. numbers of mob singularity on a single block.
 	#Range: 0 ~ 64
-	minEntityCramming = 5
+	minEntityCramming = 16
 	#Defines the max. numbers of mob singularity on a single block.
 	#Range: 1 ~ 64
 	maxEntityCramming = 24
