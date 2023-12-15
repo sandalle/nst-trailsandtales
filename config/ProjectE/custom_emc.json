@@ -173,6 +173,14 @@
       "emc": 512
     },
     {
+      "item": "electrodynamics:crystalhalite",
+      "emc": 8
+    },
+    {
+      "item": "electrodynamics:crystalpotassiumchloride",
+      "emc": 8
+    },
+    {
       "item": "biomesoplenty:bramble",
       "emc": 8
     },
@@ -229,12 +237,28 @@
       "emc": 14144
     },
     {
+      "item": "botania:mana_glass",
+      "emc": 1
+    },
+    {
+      "item": "botania:mana_powder",
+      "emc": 2048
+    },
+    {
       "item": "theurgy:sal_ammoniac_crystal",
       "emc": 864
     },
     {
       "item": "vampirism:item_garlic",
       "emc": 96
+    },
+    {
+      "item": "vampirism:cursed_earth",
+      "emc": 1
+    },
+    {
+      "item": "vampirism:cursed_roots",
+      "emc": 1
     },
     {
       "item": "pamhc2trees:pamapple",
@@ -1249,12 +1273,16 @@
       "emc": 24
     },
     {
-      "item": "pamhc2foodcore:saltitem",
-      "emc": 96
-    },
-    {
       "item": "pamhc2crops:canolaitem",
       "emc": 24
+    },
+    {
+      "item": "pamhc2crops:nettlesitem",
+      "emc": 24
+    },
+    {
+      "item": "pamhc2foodcore:saltitem",
+      "emc": 96
     },
     {
       "item": "mekanism:substrate",
@@ -1323,6 +1351,10 @@
     {
       "item": "mekanism:dirty_dust_uranium",
       "emc": 4096
+    },
+    {
+      "item": "mekanism:ingot_steel",
+      "emc": 252
     },
     {
       "item": "moremekanismprocessing:dirty_dust_silver",
@@ -1413,8 +1445,28 @@
       "emc": 32
     },
     {
+      "item": "silentgear:sinew",
+      "emc": 4
+    },
+    {
       "item": "tombstone:grave_dust",
       "emc": 384
+    },
+    {
+      "item": "industrialforegoing:latex_bucket",
+      "emc": 800
+    },
+    {
+      "item": "industrialforegoing:tinydryrubber",
+      "emc": 4
+    },
+    {
+      "item": "chocoboknights:item_moogle_fur",
+      "emc": 3
+    },
+    {
+      "item": "create:veridium",
+      "emc": 1
     }
   ]
 }
