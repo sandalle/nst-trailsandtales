@@ -265,9 +265,9 @@
 	#A constant charge rate given to all players regardless of equipment.
 	#Items worn will add to this amount, not replace it.
 	#Range: 0.0 ~ 1.7976931348623157E308
-	"base charge rate" = 0.01
+	"base charge rate" = 0.2
 	#A minimum capacity given to all players regardless of equipment.
 	#Items worn will add to this amount, not replace it.
 	#Range: > 0
-	"base vein capacity" = 0
+	"base vein capacity" = 30
 
