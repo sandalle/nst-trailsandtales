@@ -1,8 +1,8 @@
 {
   "modPriorities": [
     "minecraft",
-    "alltheores",
     "mekanism",
+    "alltheores",
     "kubejs",
     "crafttweaker",
     "create",
