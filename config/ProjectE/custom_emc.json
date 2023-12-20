@@ -1467,6 +1467,10 @@
     {
       "item": "create:veridium",
       "emc": 1
+    },
+    {
+      "item": "alltheores:steel_ingot",
+      "emc": 252
     }
   ]
 }
