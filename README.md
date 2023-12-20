@@ -24,7 +24,15 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 
 
 # Texture Packs
+[Faithful 64x](https://www.curseforge.com/minecraft/texture-packs/faithful-64x)
+[Faithful PBR 256x](https://www.curseforge.com/minecraft/texture-packs/faithful-x32-pbr-addon)
+[Misa's Realistic](https://www.curseforge.com/minecraft/texture-packs/misas-realistic)
 [Unity: Dark Edition](https://www.curseforge.com/minecraft/texture-packs/unity-dark-edition)
+
+
+# Shaders (supported by Oculus mod)
+[Sildur's Enhanced Default Shaders](https://www.curseforge.com/minecraft/shaders/sildurs-enhanced-default) - For older computers
+[Sildur's Vibrant Shaders](https://www.curseforge.com/minecraft/shaders/sildurs-vibrant-shaders) - For recent computers
 
 
 # Mods
@@ -133,6 +141,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 * [Canary](https://www.curseforge.com/minecraft/mc-mods/canary)
 * [Chunk Sending](https://www.curseforge.com/minecraft/mc-mods/chunk-sending-forge-fabric)
 * [Connectivity](https://www.curseforge.com/minecraft/mc-mods/connectivity)
+* [Embeddium](https://www.curseforge.com/minecraft/mc-mods/embeddium) - Replaces Rubidium, Sodium unofficial fork, required by newer versions of Oculus.
 * [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling)
 * [Fastload](https://www.curseforge.com/minecraft/mc-mods/fastload) - May be removed, no longer maintained?
 * [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore)
