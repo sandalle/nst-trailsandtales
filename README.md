@@ -80,7 +80,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 * [Baubley Heart Canisters](https://www.curseforge.com/minecraft/mc-mods/baubley-heart-canisters)
 * [Better Advancements](https://www.curseforge.com/minecraft/mc-mods/better-advancements)
 * [Better Compatibility Checker](https://www.curseforge.com/minecraft/mc-mods/better-compatibility-checker)
-* [Better F3 Plus](https://www.curseforge.com/minecraft/mc-mods/better-f3-plus)
+* [Better F3](https://www.curseforge.com/minecraft/mc-mods/betterf3)
 * [Better Safe Bed](https://www.curseforge.com/minecraft/mc-mods/better-safe-bed)
 * [Better Spawner Control](https://www.curseforge.com/minecraft/mc-mods/better-spawner-control)
 * [Catalogue](https://www.curseforge.com/minecraft/mc-mods/catalogue)
@@ -340,8 +340,6 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 
 
 ### Mods to be disabled on dedicated servers
-* [Better F3 Plus](https://www.curseforge.com/minecraft/mc-mods/better-f3-plus)
-  - https://github.com/cominixo/BetterF3/issues/63
 * [Modern UI](https://www.curseforge.com/minecraft/mc-mods/modern-ui)
   - https://github.com/BloCamLimb/ModernUI/issues/155
 * [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus)
