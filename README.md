@@ -352,6 +352,7 @@ Once these mods are updated for 1.20.1 they'll be added
 * [Akashic Tome](https://www.curseforge.com/minecraft/mc-mods/akashic-tome)
 * [Always a Wither Skull](https://www.curseforge.com/minecraft/mc-mods/always-a-wither-skull)
 * [Chance Cubes](https://www.curseforge.com/minecraft/mc-mods/chance-cubes)
+* [Configured](https://www.curseforge.com/minecraft/mc-mods/configured)
 * [DimStorage](https://www.curseforge.com/minecraft/mc-mods/dimstorage)
   - Will replace this with these two tried-and-true ones if there are issues
   - [EnderChests](https://legacy.curseforge.com/minecraft/mc-mods/enderchests)
