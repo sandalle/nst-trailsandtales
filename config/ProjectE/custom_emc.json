@@ -1471,6 +1471,34 @@
     {
       "item": "alltheores:steel_ingot",
       "emc": 252
+    },
+    {
+      "item": "botania:mana_string",
+      "emc": 12
+    },
+    {
+      "item": "botania:quartz_elven",
+      "emc": 256
+    },
+    {
+      "item": "botania:elf_glass",
+      "emc": 1
+    },
+    {
+      "item": "botania:elementium_ingot",
+      "emc": 640
+    },
+    {
+      "item": "botania:pixie_dust",
+      "emc": 1536
+    },
+    {
+      "item": "botania:dragonstone",
+      "emc": 12288
+    },
+    {
+      "item": "botania:elven_spreader",
+      "emc": 840
     }
   ]
 }
