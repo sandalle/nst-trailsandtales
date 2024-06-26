@@ -8,7 +8,6 @@
 	gold_door = true
 	gold_trapdoor = true
 	lock_block = true
-	crystal_display = true
 	relayer = true
 
 	[redstone.speaker_block]
@@ -37,9 +36,6 @@
 		#note that the block will push further the faster it's pulsing
 		#Range: 0.0 ~ 64.0
 		base_velocity_scaling = 5.0
-		#sets velocity changed flag when pushing entities +
-		#causes pushing animation to be smooth client side but also restricts player movement when being pushed
-		velocity_changed_flag = true
 		#maximum range
 		#note that it will still only keep alive the two fire blocks closer to it
 		#Range: 0 ~ 16
@@ -56,6 +52,7 @@
 
 	[redstone.enderman_head]
 		enabled = true
+		drop_head = true
 		#Time to increase 1 power level when being looked at
 		#Range: 0 ~ 10000
 		ticks_to_increase_power = 15
@@ -66,6 +63,8 @@
 		enabled = true
 		#can rotate entities standing on it?
 		rotate_entities = true
+		#Allows turn table to shuffle containers content when rotated over horizontal axis
+		shuffle_containers = true
 
 	[redstone.pulley_block]
 		enabled = true
@@ -85,11 +84,17 @@
 		#Allows faucets to fill entities inventories
 		fill_entities_below = false
 
+	[redstone.crystal_display]
+		enabled = true
+		#Allows chaining 2 crystal displays, letting one power the other to its left IF its own power exceeds 10. Given power will be its own divided by 10. Note that to work the decimal display must NOT have power directly behind it. Doing so will override the behavior to non chaining mode
+		chaining = true
+
 [functional]
 	fodder = true
 	hourglass = true
 
 	[functional.rope]
+		#So you came here to disable supp rope not because they are bad but because they are the easiest to disable, despite them doing all the stuff other ropes can do. Well too bad, this config doesnt do anything :P. Learn how to use datapacks to disable stuff, like its normally done
 		enabled = true
 		#Allows ropes to be supported & attached to solid block sides
 		block_side_attachment = true
@@ -176,10 +181,10 @@
 
 		#This is a map of special blocks that can be cleaned with soap
 		[functional.soap.special_blocks]
-			"#alexscaves:cave_paintings" = "alexscaves:smooth_limestone"
-			"quark:dirty_glass" = "minecraft:glass"
-			"minecraft:sticky_piston" = "minecraft:piston"
 			"quark:dirty_glass_pane" = "minecraft:glass_pane"
+			"minecraft:sticky_piston" = "minecraft:piston"
+			"quark:dirty_glass" = "minecraft:glass"
+			"#alexscaves:cave_paintings" = "alexscaves:smooth_limestone"
 
 	[functional.present]
 		enabled = true
@@ -188,12 +193,6 @@
 	[functional.flax]
 		enabled = true
 		wild_flax = true
-		#How many trades to give to wandering trader
-		#Range: 0 ~ 10
-		wandering_trader_trades = 2
-		#How many trades to give to farmers
-		#Range: 0 ~ 10
-		farmer_trades = 1
 
 [building]
 	lapis_bricks = true
@@ -205,7 +204,6 @@
 	blackstone_tile = true
 	sconce = true
 	sconce_lever = true
-	sconce_green = false
 	pancake = true
 	netherite_door = true
 	netherite_trapdoor = true
@@ -217,11 +215,6 @@
 	doormat = true
 	flint_block = true
 	candle_holder = true
-
-	[building.hat_stand]
-		enabled = true
-		#Allow all items to go on hat stand
-		unrestricted = false
 
 	[building.blackboard]
 		enabled = true
@@ -261,7 +254,7 @@
 	[building.planter]
 		enabled = true
 		#Makes so saplings that grow in a planter will break it turning into rooted dirt
-		broken_by_sapling = true
+		broken_by_sapling = false
 		#When Farmers Delight is on planter will also act like rich soil and use it in its recipe
 		rich_soil_planter = true
 
@@ -280,8 +273,9 @@
 
 	[building.ash]
 		enabled = true
-		#Burnable blocks will have a chance to create ash layers when burned
-		ash_from_fire = true
+		#Burnable blocks will have a chance to create ash layers when burned. Greater this number the greater the chance will be
+		#Range: 0.0 ~ 1.0
+		ash_from_fire_chance = 1.0
 		#Burning mobs will drop ash when they die
 		ash_from_burning_mobs = true
 		#Allows rain to wash away ash layers overtime
@@ -305,9 +299,6 @@
 	[building.globe]
 		enabled = true
 		sepia_globe = true
-		#How many globe trades to give to the wandering trader. This will effectively increase the chance of him having a globe trader. Increase this if you have other mods that add stuff to that trader
-		#Range: 0 ~ 50
-		wandering_trader_trades = 2
 
 	[building.sign_post]
 		enabled = true
@@ -324,7 +315,11 @@
 
 	[building.ash_bricks]
 		enabled = true
-		mason_trades = true
+
+	[building.hat_stand]
+		enabled = true
+		#Allow all items to go on hat stand
+		unrestricted = false
 
 [tools]
 	candy = true
@@ -436,7 +431,6 @@
 
 	[tools.antique_ink]
 		enabled = true
-		cartographer_trades = true
 
 #General settings
 [general]
@@ -464,10 +458,6 @@
 	[tweaks.golden_apple_disenchant]
 		enabled = true
 
-	[tweaks.dye_blocks]
-		#Allows using dye on blocks just like with soap
-		enabled = false
-
 	[tweaks.traders_open_doors]
 		#Allows traders to open doors (because they couldnt aparently)
 		enabled = true
@@ -478,45 +468,9 @@
 		#Enables shooting ender pearls with dispensers
 		shoot_ender_pearls = true
 
-	[tweaks.cake_tweaks]
-		#Allows you to place a cake on top of another
-		double_cake = true
-		#Allows eating a cake from every side
-		directional_cake = true
-
-	[tweaks.mob_head_tweaks]
-		#Allows you to place two mob heads on top of each other
-		skull_piles = true
-		#Allows candles to be placed on top of skulls
-		skull_candles = true
-		#Allows placing more than one candle ontop of each skull
-		multiple_candles = true
-
-	[tweaks.hanging_flower_pots]
-		#allows you to place hanging flower pots. Works with any modded pot too
-		enabled = true
-
 	[tweaks.throwable_bricks]
 		#Throw bricks at your foes! Might break glass blocks
 		enabled = true
-
-	[tweaks.lantern_tweaks]
-		#Allow wall lanterns placement
-		enabled = true
-		#Gives high priority to wall lantern placement. Enable to override other wall lanterns placements, disable if it causes issues with other mods that use lower priority block click events
-		high_priority = true
-		#Mod ids of mods that have lantern block that extend the base lantern class but don't look like one
-		mod_blacklist = ["extlights", "betterendforge", "tconstruct", "enigmaticlegacy"]
-		#Allows ceiling lanterns to fall if their support is broken.Additionally if they fall from high enough they will break creating a fire where they land
-		#Allowed Values: ON, OFF, NO_FIRE
-		falling_lanterns = "ON"
-
-	[tweaks.bells_tweaks]
-		#Ring a bell by clicking on a chain that's connected to it
-		chain_ringing = true
-		#Max chain length that allows a bell to ring
-		#Range: 0 ~ 256
-		chain_length = 16
 
 	[tweaks.placeable_sticks]
 		#Allow placeable sticks
@@ -562,21 +516,11 @@
 		quill_adventurer_maps = true
 		#If Quark is installed replaces buried treasure and mansion maps with their equivalent quill form. This removes the lag spike they create when generating
 		quill_vanilla_maps = true
-		#These maps will roll a difference structure every time. Increase their price to balance them
-		#Range: 1.0 ~ 10.0
-		map_trade_price_multiplier = 2.0
-		#These maps will roll a difference structure every time. Decrease their max trades to balance them
-		#Range: 1 ~ 12
-		map_trade_max_trades = 2
 		#Miminum search radius for quill. Used to incrase the radius of vanilla searches. For reference buried treasures are at 50 and locate is at 100 chunks
 		#Range: 10 ~ 600
 		min_search_radius = 75
 		#Makes blocks tagged as 'tinted_on_map' use their tint color. This allows for accurate biome colors for water and grass as well as other custom block that use any tint
 		tinted_blocks_on_maps = true
-
-	[tweaks.ceiling_banners]
-		#Allow banners to be placed on ceilings
-		enabled = true
 
 	[tweaks.placeable_books]
 		#Allows written books to be placed down. Requires shift clicking
@@ -612,4 +556,8 @@
 		cat_unluck = true
 		#If you have unluck you are more likely to get hit by a lighting
 		lightning_unluck = true
+
+	[tweaks.item_lore]
+		#Adds a recipe to add 'lore' strings to an item by combining it with a named nametag
+		enabled = true
 

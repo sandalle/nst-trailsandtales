@@ -162,6 +162,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 * ['Dustrial Decor](https://www.curseforge.com/minecraft/mc-mods/dustrial-decor)
 * [Absent by Design](https://www.curseforge.com/minecraft/mc-mods/absent-by-design)
 * [Adorn](https://www.curseforge.com/minecraft/mc-mods/adorn-for-forge)
+* [Amendments](https://www.curseforge.com/minecraft/mc-mods/amendments)
 * [Athena](https://www.curseforge.com/minecraft/mc-mods/athena)
 * [Bedspreads](https://www.curseforge.com/minecraft/mc-mods/bedspreads)
 * [Blocky Stone Doors](https://www.curseforge.com/minecraft/mc-mods/blocky-doors)

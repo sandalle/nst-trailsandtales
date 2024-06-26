@@ -1,7 +1,7 @@
 
 ["raids and illagers"]
 	#Illagers In Raids Attack Animals?
-	"Illagers in raids attack animals?" = false
+	"Illagers in raids attack animals?" = true
 	#Witches Attack Villagers?
 	"Witches attack villagers?" = true
 	#This will make Illusioners get involved in raids
@@ -12,8 +12,10 @@
 ["mob ai in general"]
 	#Guards will attack all hostiles with this option, when set to false guards will only attack zombies and illagers.
 	"Guards attack all mobs?" = true
+	#Hostiles attack guards, by default only illagers and zombies will attack guards, the mob blacklist below will effect this option
+	"All mobs attack guards" = false
 	#Guards won't attack mobs in this list at all, for example, putting "minecraft:creeper" in this list will make guards ignore creepers.
-	"Mob Blacklist" = ["minecraft:villager", "minecraft:iron_golem", "minecraft:wandering_trader", "guardvillagers:guard"]
+	"Mob Blacklist" = ["minecraft:villager", "minecraft:iron_golem", "minecraft:wandering_trader", "guardvillagers:guard", "minecraft:creeper", "alexsmobs:komodo_dragon", "minecraft:enderman"]
 	#Guards will additionally attack mobs ids put in this list, for example, putting "minecraft:cow" in this list will make guards attack cows.
 	"Mob Whitelist" = []
 
@@ -26,7 +28,11 @@
 	#This makes villagers run from polar bears, as anyone with common sense would.
 	"Have Villagers have some common sense?" = true
 
+["golem stuff"]
+	"Allow Iron Golems to float on water?" = true
+
 ["guard stuff"]
+	"Have guards patrol the village regularly?" = true
 	#Range: -999.9000244140625 ~ 999.0
 	"Chance to drop equipment" = 100.0
 	#This makes Guards run from polar bears, as anyone with common sense would.
